@@ -1,0 +1,69 @@
+# Rules and guidelines for contributing and making discussion
+
+## Rules
+
+### R-1. General Rules & Communications
+
+\+ By using the product of this project (i.e. the release of osu! skin that is from this project) and joining project, you agree on being responsible of making constructive suggestion and being respectful to others. It's acceptable if you don't like it without leaving any toxic comment.
+
+\+ Every kind of destructive suggestion, giving hatred speech towards this project is not allowed.
+
+\+ Swearing is allowed, but it's limited to swearing in friendly, joking zone without insulting people and subjects.
+
+\+ Keep members' personal details as private.
+
+\+ Avoid spamming too much or members in the team will be in chaos. This applies to Issues, Pull Requests and Discussions tab.
+
+\+ Use common sense. If something seems inappropriate or unreasonable to post, then don't.
+
+\+ If the owners or admins of this project tell you to stop, please stop. Their decision is final, no point being against them.
+
+### R-2. Refrain from referring the project as a part of Gacha Communities.
+
+\+ The project is not affiliated with Gacha Communities (Specificially Gacha Life, Gacha Club, Gacha Life 2 Communities). Calling this as part of the communities is not allowed.
+
+\+ Do not attack the one who supported my project all along, they are not deserved to be harrassed.
+
+### R-3. Follow osu! rules
+
+\+ By using the project, you agree to follow [osu! rules](https://osu.ppy.sh/wiki/en/Rules). Failed to abide their rules will have yourself banned from this project.
+
+### R-4. Refrain from bringing NSFW and Sensitive Contents
+
+\+ By using this project, you are not allowed to share NSFW content of any form in this repo or in social medias. Keep this project PG-13.
+
+\+ Do not discuss about politics, religion, politics, death, etc. The only exception is depression, however, please only do if you have a reason to, and limit yourself from doing it. 
+
+## Guidelines
+
+### G-1. Feel like you are at home with us
+
+\+ If you feel happy, wanna share something you enjoy best in your life, keep in mind that we are also open to hear too! We have the Discussion tabs for you to share, go there and enjoy
+
+\+ If you feel shy or you are willing to contribute our project but you are not brave enough, it's okay, we know that people have limits to express something. You can DM me with Discord alpha_mg if you wish to do
+
+### G-2. Contributing to this project repo requires a basic knowledge of skinning
+
+\+ If you have zero idea on contributing, or have idea on contributing but you don't know about the knowledge of skinning, you can do general suggestions on Issue tab, we really appreciate that!
+
+\+ If you want to contribute, and want to learn about skinning, [check the tutorials and guides by skinship.xyz](https://skinship.xyz/guides/).
+
+## Contributing Instruction
+### I-1. Issue
+
+1. Next to Code tab, there is Issue tab, go there and use Search button to check if there's duplicated issue or not
+
+2. If there's no duplicate, create a new one, if there's an existing one, go there and send comment on it instead.
+
+3. Categorize the issue. If it's bug, use Bug template. If you want to suggest, use Feature Request template. If you have a zero idea, use Blank template
+
+
+4. Fill in the required information, and please add attachment, especially issues related to UI.
+
+### I-2. Pull requests:
+
+Please temporarily check [here](https://github.com/greenmg2003/osu-mg-reload/blob/main/CONTRIBUTING.md) until I finish updating images
+
+-----------------------------------------------------------------------------------
+
+Thanks for reading and have fun with my project ^^
