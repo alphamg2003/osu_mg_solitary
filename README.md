@@ -32,7 +32,7 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 ⚠ **I DO NOT welcome kids from Gacha Community who are 13 years old and below, or cringe, heat content creators.** As stated, this project is only for the one who wish to sail on same boat with me and support me. 
 
-✳ Starting from season 2: The skin will be fully supported with HD with new design. **Note that this project only focuses on osu! catchand osu! standard.** The remaining mode will come when I feel like it, or you can contribute to it!
+✳ Starting from season 2: The skin will be fully supported with HD with new design. **Note that this project only focuses on osu! catch and osu! standard.** The remaining mode will come when I feel like it, or you can contribute to it!
 
 ✳ Want to contribue? [Great, read this first before contributing!](https://github.com/alphamg2003/osu_mg_solitary/blob/main/CONTRIBUTING.md)
 
