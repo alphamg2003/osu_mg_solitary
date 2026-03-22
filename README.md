@@ -12,11 +12,15 @@ Current status: Season 2 - v.6.0.0 is ready!!
 
 #                                ~ osu! Mg: Revival (Season 2) ~
 
+<img width="1000" height="500" alt="Project banner" src="https://github.com/user-attachments/assets/aa04cd34-73f1-452c-95ce-830022b807d7" />
+
 - Leader: **Alpha Green Mg**
 
 - Season 2: [**6.0.0**](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.0-release)
 
 - Season 1: [**Moved to here**](https://github.com/greenmg2003/osu-mg-reload)
+
+- [Go here for the forum](https://osu.ppy.sh/community/forums/topics/2190251?n=1)
 
 - Copyright issue: All image elements, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
