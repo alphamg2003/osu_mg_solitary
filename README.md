@@ -43,19 +43,43 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 ### Song Select
 
+![screenshot197](https://github.com/user-attachments/assets/4c64a891-ec25-41f5-bce2-46ff863eb8a1)
+
 ### Mod selection
+
+![screenshot202](https://github.com/user-attachments/assets/a3fefc39-9e72-46f1-a4c4-8b4443b672ff)
 
 ### Circles and Sliders
 
+![screenshot214](https://github.com/user-attachments/assets/42d3d09b-c0a5-4c58-877a-829e44935099)
+
+![screenshot215](https://github.com/user-attachments/assets/aa3844b4-3152-47fc-9e99-a99313875d92)
+
 ### Spinner
+
+![screenshot216](https://github.com/user-attachments/assets/01eac0e2-0342-4a70-8d23-7f17e7258993)
 
 ### Catch! mode
 
+![screenshot217](https://github.com/user-attachments/assets/6e9a0854-af57-4fd4-9d07-f62f2a954f3f)
+
+![screenshot218](https://github.com/user-attachments/assets/fb17f7cd-992f-4cf3-9e27-f9d4489a9120)
+
+![screenshot219](https://github.com/user-attachments/assets/10c13c86-8ba5-40ef-ad31-11d4c9643f73)
+
 ### Result Screen
+
+![screenshot199](https://github.com/user-attachments/assets/6c62e1b1-8478-457b-894c-ab76db2069d5)
+
+![screenshot200](https://github.com/user-attachments/assets/ec39fd56-d569-427d-85ca-6620ab423ec9)
 
 ### Pause Screen
 
+![screenshot212](https://github.com/user-attachments/assets/5eb02644-033b-47d6-ab0b-82756bffe7af)
+
 ### Fail Screen
+
+![screenshot220](https://github.com/user-attachments/assets/da98bbbf-ba5a-4318-8acf-0c57f324f51f)
 
 
 # ~ Changelog ~
@@ -64,4 +88,4 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 ## [6.0.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.6.0.0-release)
 
-Coming soon!
+Completely revamped from season 1
