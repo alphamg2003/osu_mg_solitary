@@ -20,7 +20,7 @@ Current status: Season 2 is almost ready for first release!
 
 - Copyright issue: All image elements, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
-- Credits: [skinship](https://skinship.xyz/) (for aiding me through the project), [tetr.io](https://tetr.io/) (for allowing me to use some sound effects)
+- Credits: [skinship](https://skinship.xyz/) (for aiding me through the project), [TETR.IO](https://tetr.io/) (for allowing me to use some sound effects)
 
 - If you have an osu! account and wanna set sail with me, I'll create a team for you to hop in later
 
