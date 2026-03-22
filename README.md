@@ -89,6 +89,6 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 # ~ Changelog ~
 
 
-## [6.0.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.6.0.0-release)
+## [6.0.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.0-release)
 
 - Completely revamped from season 1
