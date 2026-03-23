@@ -57,12 +57,52 @@
 
 3. Categorize the issue. If it's bug, use Bug template. If you want to suggest, use Feature Request template. If you have a zero idea, use Blank template
 
+<img width="1358" height="610" alt="msedge_25F1fZ29C8" src="https://github.com/user-attachments/assets/242d9aee-bccf-447d-b5ea-f2d281a4390c" />
+
 
 4. Fill in the required information, and please add attachment, especially issues related to UI.
 
 ### I-2. Pull requests:
 
-Please temporarily check [here](https://github.com/greenmg2003/osu-mg-reload/blob/main/CONTRIBUTING.md) until I finish updating images
+
+1. Clone this repo to GitHub Desktop with link: `https://github.com/alphamg2003/osu_mg_solitary.git`. There are 2 ways:
+ 
+- Using command line: `git clone https://github.com/alphamg2003/osu_mg_solitary.git`
+- On the main screen of this repository, tap on `Code`, then choose `Open with GitHub Desktop`
+
+3. Pick the desired version, create a folder in osu! skin folder with `osu! Mg x.x.x - Season 2`
+
+<img width="611" height="36" alt="explorer_QS5o224n3g" src="https://github.com/user-attachments/assets/8cf46f1a-e12a-4e6d-b203-581e6257cc6a" />
+
+4. In GitHub Desktop, choose the branch of your desired version. Then, click on New Branch.
+
+<img width="1366" height="728" alt="GitHubDesktop_GG7KRAkklA" src="https://github.com/user-attachments/assets/40acad34-9dac-4a5e-ac36-f40b9e994042" />
+
+Then, on this screen, write your branch name, and `Create branch based on: v.x.x.x`, as shown
+
+<img width="1366" height="728" alt="GitHubDesktop_HDkFb6d6Qr" src="https://github.com/user-attachments/assets/2af9be30-046d-46d4-ac5c-b8c41a7ff7a3" />
+
+If you are success, you should see like this, open the branch folder with `Show in Explorer`.
+
+<img width="1366" height="728" alt="GitHubDesktop_pexh2ccc2G" src="https://github.com/user-attachments/assets/b3ea1150-0f24-435b-ab92-63590e525f41" />
+
+4. Copy all the assets inside the folder `project-assets` from `osu_mg_solitary` into newly created osu! skin folder. It should be, something like this (Season 1 image for now):
+
+![Tutorial](https://github.com/user-attachments/assets/b0bd4bb0-47cc-4cdd-8cba-ed25ed83a4a4)
+
+5. From there, you can work on assets you wish to suggest. Try making @2x version if possible for image assets.
+   
+6. When done, copy all the assets you wish to suggest back to `project-assets` inside `osu_mg_solitary`, make summary, commit to the suggesting branch, and publish your branch.
+7. 
+<img width="1366" height="728" alt="GitHubDesktop_vQ6MvubkAS" src="https://github.com/user-attachments/assets/fd3aec99-7458-4fa6-9e35-87974dd966f0" />
+
+<img width="1366" height="728" alt="GitHubDesktop_pIg2PBuBbv" src="https://github.com/user-attachments/assets/0c686c82-dcdb-4e91-9cfb-311d0eabb9ee" />
+
+
+7. Go back to here, switch to tab: "Pull request", then make the comparision between your suggesting branch and the version you want to request.
+
+8. "Create pull request" and type everything you want, from the title to description.
+
 
 -----------------------------------------------------------------------------------
 
