@@ -47,47 +47,58 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 ### Song Select
 
-![screenshot197](https://github.com/user-attachments/assets/4c64a891-ec25-41f5-bce2-46ff863eb8a1)
+![](https://i.ibb.co/WpcL4j6r/screenshot291.jpg)
+
+![](https://i.ibb.co/2Ycz5ChZ/screenshot295.jpg)
 
 ### Mod selection
 
-![screenshot202](https://github.com/user-attachments/assets/a3fefc39-9e72-46f1-a4c4-8b4443b672ff)
+![](https://i.ibb.co/qFDYVT61/screenshot292.jpg)
 
 ### Circles and Sliders
 
-![screenshot214](https://github.com/user-attachments/assets/42d3d09b-c0a5-4c58-877a-829e44935099)
+![](https://i.ibb.co/G3R2zYwf/screenshot300.jpg)
 
-![screenshot215](https://github.com/user-attachments/assets/aa3844b4-3152-47fc-9e99-a99313875d92)
+![](https://i.ibb.co/v4B19Ghp/screenshot301.jpg)
 
 ### Spinner
 
-![screenshot216](https://github.com/user-attachments/assets/01eac0e2-0342-4a70-8d23-7f17e7258993)
+![](https://i.ibb.co/xtP686q0/screenshot303.jpg)
 
 ### Catch! mode
 
-![screenshot217](https://github.com/user-attachments/assets/6e9a0854-af57-4fd4-9d07-f62f2a954f3f)
+![](https://i.ibb.co/Fj6Q1fH/screenshot305.jpg)
 
-![screenshot218](https://github.com/user-attachments/assets/fb17f7cd-992f-4cf3-9e27-f9d4489a9120)
-
-![screenshot219](https://github.com/user-attachments/assets/10c13c86-8ba5-40ef-ad31-11d4c9643f73)
+![](https://i.ibb.co/Y4kNfm3g/screenshot304.jpg)
 
 ### Result Screen
 
-![screenshot199](https://github.com/user-attachments/assets/6c62e1b1-8478-457b-894c-ab76db2069d5)
+![](https://i.ibb.co/DPJ9cgch/screenshot293.jpg)
 
-![screenshot200](https://github.com/user-attachments/assets/ec39fd56-d569-427d-85ca-6620ab423ec9)
+![](https://i.ibb.co/TDjNbspr/screenshot294.jpg)
 
 ### Pause Screen
 
-![screenshot212](https://github.com/user-attachments/assets/5eb02644-033b-47d6-ab0b-82756bffe7af)
+![](https://i.ibb.co/HpXxMpwH/screenshot298.jpg)
 
 ### Fail Screen
 
-![screenshot220](https://github.com/user-attachments/assets/da98bbbf-ba5a-4318-8acf-0c57f324f51f)
+![](https://i.ibb.co/TDLwPtMV/screenshot299.jpg)
 
 
 # ~ Changelog ~
 
+## [6.0.1](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.1-release)
+
+- Fixed hyperdashes that are not visible (Changed the fruit sprite to white) - [#8](https://github.com/alphamg2003/osu_mg_solitary/issues/8)
+- Added icon for mode button - [#9](https://github.com/alphamg2003/osu_mg_solitary/issues/9)
+- Hide text project and version for public release, the full version can be found in the folder Extra - [#10](https://github.com/alphamg2003/osu_mg_solitary/issues/10)
+- Added a text on top of the selection-mode, idea from season 1 and WhiteCat's skin - [#11](https://github.com/alphamg2003/osu_mg_solitary/issues/11)
+- Removed rank-up, rank-down for now - [#12](https://github.com/alphamg2003/osu_mg_solitary/issues/12)
+- Removed all mania stuff in skin.ini as it is unnecessary - [#13](https://github.com/alphamg2003/osu_mg_solitary/issues/13)
+- Menu-back now has a proper background - [#14](https://github.com/alphamg2003/osu_mg_solitary/issues/14)
+- Added Missing Controller Sets - [#16](https://github.com/alphamg2003/osu_mg_solitary/issues/16)
+- Redesigned the covering cookie - [#17](https://github.com/alphamg2003/osu_mg_solitary/issues/17)
 
 ## [6.0.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.0-release)
 
