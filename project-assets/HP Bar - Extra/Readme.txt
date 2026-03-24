@@ -1,4 +1,6 @@
-There are two types of Progress Display: Top-Right Pie and Top-Right Bar
+There are 3 versions of HP Bar, 2 of which has full detail, and one of which is complete simplistic. Please grab one of the versions and replace the current scorebar-bg.
+
+There are 2 versions for types of Progress Display: Top-Right Pie and Top-Right Bar
 You can change it in Settings -> Gameplay -> General -> Progress Display
 When changing, be sure to use correct file of scorebar-bg to match the current progress display!!
 
