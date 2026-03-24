@@ -4,7 +4,7 @@ The only active core project of osu! Gacha Club, that brings self-made character
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Current status: Season 2 - v.6.0.0 is ready!!
+Current status: Season 2 - v.6.0.1 is ready!!
 
 [Stability Status]: As of now, the project is stable.
 
@@ -16,7 +16,7 @@ Current status: Season 2 - v.6.0.0 is ready!!
 
 - Leader: **Alpha Green Mg**
 
-- Season 2: [**6.0.0**](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.0-release)
+- Season 2: [**6.0.1**](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.1-release)
 
 - Season 1: [**Moved to here**](https://github.com/greenmg2003/osu-mg-reload)
 
