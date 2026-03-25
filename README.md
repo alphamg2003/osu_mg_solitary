@@ -1,30 +1,32 @@
-# Project: osu! Gacha Club Revival | Sub-project: osu! Mg Revival (Season 2)
+# Project: osu! Gacha Club Revival | Sub-project: osu! Mg Revival (Season 3)
 
 The only active core project of osu! Gacha Club, that brings self-made characters created from Gacha Club to osu! game. The new season of osu! Mg, with the solitary path awaits...
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Current status: This project will be sent to compendium soon!
+Current status: Season 2 of the project is approved!! Working on Season 3 now
 
 [Stability Status]: As of now, the project is stable.
 
 ---
 
-#                                ~ osu! Mg: Revival (Season 2) ~
+#                                ~ osu! Mg: Revival (Season 3) ~
 
 <img width="1000" height="500" alt="Project banner" src="https://github.com/user-attachments/assets/aa04cd34-73f1-452c-95ce-830022b807d7" />
 
 - Leader: **Alpha Green Mg**
 
-- Season 2: [**6.0.1**](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.1-release)
+- Season 2: [**6.0.1**](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.1-release) | [Go here for the forum](https://osu.ppy.sh/community/forums/topics/2190251?n=1)
 
 - Season 1: [**Moved to here**](https://github.com/greenmg2003/osu-mg-reload)
-
-- [Go here for the forum](https://osu.ppy.sh/community/forums/topics/2190251?n=1)
 
 - Copyright issue: All image elements, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
 - Credits: [skinship](https://skinship.xyz/) (for aiding me through the project), [TETR.IO](https://tetr.io/) (for allowing me to use some sound effects)
+
+- Season 2 playtesters: Rory, [xBlus](https://osu.ppy.sh/users/21592561)
+
+- Season 2 helpers: [Redo_](https://osu.ppy.sh/users/7122165), [lilrawk](https://osu.ppy.sh/users/13799581), [5teven](https://osu.ppy.sh/users/8568397), [Lagz26](https://osu.ppy.sh/users/32852603) (This guy gave me ingenious idea), [Jianshyy](https://osu.ppy.sh/users/9178563) (This guy also gave me ingenious idea), [Unryuu](https://osu.ppy.sh/users/12068679), Eggnog, [thetruenewbie](https://osu.ppy.sh/users/30445073), TETR.IO server and Psych2Go server
 
 - If you have an osu! account and wanna set sail with me, I'll create a team for you to hop in later
 
