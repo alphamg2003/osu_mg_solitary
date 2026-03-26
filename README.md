@@ -16,7 +16,7 @@ Current status: Season 2 of the project is approved!! Working on Season 3 now
 
 - Leader: **Alpha Green Mg**
 
-- Season 2: [**6.0.1**](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.1-release) | [Go here for the forum](https://osu.ppy.sh/community/forums/topics/2190251?n=1)
+- Season 2: [**6.0.1**](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.1-release) | [**Go here for the forum**](https://osu.ppy.sh/community/forums/topics/2190251?n=1) | [**Go here for compendium**](https://compendium.skinship.xyz/2026-03-22/2190251)
 
 - Season 1: [**Moved to here**](https://github.com/greenmg2003/osu-mg-reload)
 
@@ -38,7 +38,7 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 ⚠ **I DO NOT welcome kids from Gacha Community who are 13 years old and below, or cringe, heat content creators.** As stated, this project is only for the one who wish to sail on same boat with me and support me. 
 
-✳ Starting from season 2: The skin will be fully supported with HD with new design. **Note that this project only focuses on osu! catch and osu! standard.** The remaining mode will come when I feel like it, or you can contribute to it!
+✳ Starting from season 2: The skin will be fully supported with HD with new design. **Note that this project only focuses on osu! catch and osu! standard.** The remaining mode will come at later seasons when I feel like it, or you can contribute to it!
 
 ✳ Want to contribue? [Great, read this first before contributing!](https://github.com/alphamg2003/osu_mg_solitary/blob/main/CONTRIBUTING.md)
 
