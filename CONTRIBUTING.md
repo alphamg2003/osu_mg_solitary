@@ -22,7 +22,7 @@
 
 \+ The project is not affiliated with Gacha Communities (Specificially Gacha Life, Gacha Club, Gacha Life 2 Communities). Calling this as part of the communities is not allowed.
 
-\+ Do not attack the one who supported my project all along, they are not deserved to be harrassed.
+\+ Do not attack the one who supported my project all along, they are not deserved to be harassed.
 
 ### R-3. Follow osu! rules
 
