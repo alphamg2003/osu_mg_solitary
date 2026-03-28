@@ -4,7 +4,7 @@ The only active core project of osu! Gacha Club, that brings self-made character
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Current status: Season 2 of the project is approved!! Working on Season 3 now
+Current status: Season 3  - Brainstorm Completed
 
 [Stability Status]: As of now, the project is stable.
 
@@ -16,7 +16,9 @@ Current status: Season 2 of the project is approved!! Working on Season 3 now
 
 - Leader: **Alpha Green Mg**
 
-- Season 2: [**6.0.1**](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.1-release) | [**Go here for the forum**](https://osu.ppy.sh/community/forums/topics/2190251?n=1) | [**Go here for compendium**](https://compendium.skinship.xyz/2026-03-22/2190251)
+- Season 3: Coming soon
+
+- Season 2: [**6.0.1**](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.1-release) | [**Go here for the forum**](https://osu.ppy.sh/community/forums/topics/2190251?n=1) | [**Go here for skinship compendium**](https://compendium.skinship.xyz/2026-03-22/2190251) | [**Go here for osu!ck compendium**|(https://skins.osuck.net/skins/5156?tab=resources)
 
 - Season 1: [**Moved to here**](https://github.com/greenmg2003/osu-mg-reload)
 
