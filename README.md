@@ -1,4 +1,4 @@
-# Project: osu! Gacha Club Revival | Sub-project: osu! Mg Revival (Season 3)
+# Project: osu! Gacha Club Revival | Sub-project: osu! Mg (Season 3)
 
 The only active core project of osu! Gacha Club, that brings self-made characters created from Gacha Club to osu! game. The new season of osu! Mg, with the solitary path awaits...
 
@@ -10,7 +10,7 @@ Current status: Season 3  - Brainstorm Completed
 
 ---
 
-#                                ~ osu! Mg: Revival (Season 3) ~
+#                                ~ osu! Mg (Season 3) - The Tale of Lonely Alpha Cats ~
 
 <img width="1000" height="500" alt="Project banner" src="https://github.com/user-attachments/assets/aa04cd34-73f1-452c-95ce-830022b807d7" />
 
@@ -18,7 +18,7 @@ Current status: Season 3  - Brainstorm Completed
 
 - Season 3: Coming soon
 
-- Season 2: [**6.0.1**](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.1-release) | [**Go here for the forum**](https://osu.ppy.sh/community/forums/topics/2190251?n=1) | [**Go here for skinship compendium**](https://compendium.skinship.xyz/2026-03-22/2190251) | [**Go here for osu!ck compendium**|(https://skins.osuck.net/skins/5156?tab=resources)
+- Season 2: [**6.0.1**](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.1-release) | [**Go here for the forum**](https://osu.ppy.sh/community/forums/topics/2190251?n=1) | [**Go here for skinship compendium**](https://compendium.skinship.xyz/2026-03-22/2190251) | [**Go here for osu!ck compendium**](https://skins.osuck.net/skins/5156?tab=resources)
 
 - Season 1: [**Moved to here**](https://github.com/greenmg2003/osu-mg-reload)
 
