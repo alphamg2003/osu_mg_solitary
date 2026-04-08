@@ -44,9 +44,9 @@ Current status: Season 3 - Working on Chapter 2
 
 - Season 2 playtesters: Rory, [xBlus](https://osu.ppy.sh/users/21592561)
 
-- Helpers/Supporters (inside community): [Redo_](https://osu.ppy.sh/users/7122165), [lilrawk](https://osu.ppy.sh/users/13799581), [5teven](https://osu.ppy.sh/users/8568397), [Lagz26](https://osu.ppy.sh/users/32852603) (This guy gave me ingenious idea), [Jianshyy](https://osu.ppy.sh/users/9178563) (This guy also gave me ingenious idea), [Unryuu](https://osu.ppy.sh/users/12068679),[thetruenewbie](https://osu.ppy.sh/users/30445073), [TETR.IO server](https://discord.com/invite/tetrio) and [Psych2Go server](https://discord.gg/EsWEvrJ), [Neumann](https://osu.ppy.sh/users/13565278), [Jole](https://osu.ppy.sh/users/2883132), [Green Day (Roki)](https://osu.ppy.sh/users/6837972), [Rurikawa/intelstellar](https://github.com/intelstellar), [FarFle_](https://osu.ppy.sh/users/29918299)
+- Helpers/Supporters (inside community): [Redo_](https://osu.ppy.sh/users/7122165), [lilrawk](https://osu.ppy.sh/users/13799581), [5teven](https://osu.ppy.sh/users/8568397), [Lagz26](https://osu.ppy.sh/users/32852603) (This guy gave me ingenious idea), [Jianshyy](https://osu.ppy.sh/users/9178563) (This guy also gave me ingenious idea), [Unryuu](https://osu.ppy.sh/users/12068679),[thetruenewbie](https://osu.ppy.sh/users/30445073), , [Neumann](https://osu.ppy.sh/users/13565278), [Jole](https://osu.ppy.sh/users/2883132), [Green Day (Roki)](https://osu.ppy.sh/users/6837972), [Rurikawa/intelstellar](https://github.com/intelstellar), [FarFle_](https://osu.ppy.sh/users/29918299)
 
-- Extra helpers: Eggnog (Psych2Go), Vivi (Mystic Forest), JP (CHAOZ SERVER), Shahar (Mystic Forest), JJAnimations857, Miho (Lunitown), Raine/Blehhgv .☆ (Lunitown)
+- Extra helpers: [TETR.IO server](https://discord.com/invite/tetrio) and [Psych2Go server](https://discord.gg/EsWEvrJ), Eggnog (Psych2Go), Vivi (Mystic Forest), JP ([CHAOZ SERVER](https://discord.gg/zXNuBysUtz)), Shahar ([Mystic Forest](https://discord.gg/FHXKFYCzp)), JJAnimations857, Miho ([Lunitown](https://discord.gg/vgJNjaN2v4)), Raine/Blehhgv .☆ (Lunitown)
 
 - Season 2 feedback: [Light_Palette](https://osu.ppy.sh/users/30800310)
 
@@ -56,7 +56,7 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                  Important 
                                 
-⚠ **The Project (along with big project - osu! Gacha Club) IS NOT a part of Gacha Community.** That does not mean I stopped supporting the game. I simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md). All the hatred that I received that is like "Ew Gacha" or "Gacha is disgusting" will be redirected to community, I do not have time to deal with that.
+⚠ **The Project (along with big project - osu! Gacha Club) IS NOT a part of entire Gacha Community.** That does not mean I stopped supporting the game. I simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md). All the hatred that I received that is like "Ew Gacha" or "Gacha is disgusting" will be redirected to community, I do not have time to deal with that.
 
 ⚠ **I DO NOT welcome kids from Gacha Community who are 13 years old and below, or cringe, heat content creators.** As stated, this project is only for the one who wish to sail on same boat with me and support me. 
 
