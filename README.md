@@ -65,15 +65,52 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 ✳ Want to contribue? [Great, read this first before contributing!](https://github.com/alphamg2003/osu_mg_solitary/blob/main/CONTRIBUTING.md)
 
 
-#                                 ~ Media ~
+#                                 ~ Media (Latest Version) ~
 
 ## Season 3 - Chapter 1:
 
-https://www.youtube.com/watch?v=Jrb24XGKozc
 
-## Season 2:
+### Song Select
 
-https://www.youtube.com/watch?v=vxpu_7YUwy0
+![screenshot489](https://github.com/user-attachments/assets/5f8c4c5e-6601-48e2-84d4-40ae102c980f)
+
+![screenshot492](https://github.com/user-attachments/assets/f7a4d9a9-73d3-4845-a97f-800746bf4489)
+
+
+### Mod selection
+
+![screenshot490](https://github.com/user-attachments/assets/9f0bc57d-533c-4204-8cfa-b674319ea041)
+
+
+### Circles and Sliders
+
+![screenshot495](https://github.com/user-attachments/assets/99159658-7be7-4129-a0a6-a88c8954e186)
+
+
+### Spinner
+
+![screenshot497](https://github.com/user-attachments/assets/9616ef24-1f3e-44e9-967f-bd7353140c9c)
+
+### Catch! mode
+
+![screenshot500](https://github.com/user-attachments/assets/4fae2820-a4d6-4792-9f2d-c0488a13f0f9)
+
+![screenshot503](https://github.com/user-attachments/assets/1571872e-f0df-4b89-8dd1-d53fdcdd8ab2)
+
+### Result Screen
+
+![screenshot493](https://github.com/user-attachments/assets/af05ab77-ed7d-490a-a7c7-0cbbf032c350)
+
+![screenshot494](https://github.com/user-attachments/assets/1806cc5b-65c0-40a6-a8ad-2dc7a859b38a)
+
+### Pause Screen
+
+![screenshot498](https://github.com/user-attachments/assets/40667b02-1395-4cf1-bf91-e64978870b02)
+
+
+### Fail Screen
+
+![screenshot499](https://github.com/user-attachments/assets/52439bc1-a5ac-4d8a-a923-823e82a5dfaf)
 
 
 # ~ Changelog ~
@@ -95,3 +132,5 @@ _**And my name, dear travelers, is Ouritsu Maguneshiumu 王立 (おうりつ) �
 - Reworked entire mod icons, ranking panel, HP Bar
 
 - Changed Mana Rate -> Energy Rate
+
+- Added additional Spicy text files
