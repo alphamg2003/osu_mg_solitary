@@ -24,6 +24,10 @@ Current status: Season 2 - v.6.0.1 is ready!!
 
 - Copyright issue: All image elements, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
+- Season 2 playtesters: Rory, [xBlus](https://osu.ppy.sh/users/21592561)
+
+- Season 2 helpers: [Redo_](https://osu.ppy.sh/users/7122165), [lilrawk](https://osu.ppy.sh/users/13799581), [5teven](https://osu.ppy.sh/users/8568397), [Lagz26](https://osu.ppy.sh/users/32852603) (This guy gave me ingenious idea), [Jianshyy](https://osu.ppy.sh/users/9178563) (This guy also gave me ingenious idea), [Unryuu](https://osu.ppy.sh/users/12068679),[thetruenewbie](https://osu.ppy.sh/users/30445073), [TETR.IO server](https://discord.com/invite/tetrio) and [Psych2Go server](https://discord.gg/EsWEvrJ)
+
 - Credits: [skinship](https://skinship.xyz/) (for aiding me through the project), [TETR.IO](https://tetr.io/) (for allowing me to use some sound effects)
 
 - If you have an osu! account and wanna set sail with me, I'll create a team for you to hop in later
