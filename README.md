@@ -10,39 +10,54 @@ Current status: Season 3 - Working on Chapter 2
 
 ---
 
-#                                ~ osu! Mg (Season 3) - Journey of Cats & Nature ~
+#                                ~ osu! Mg | osu! Gacha Club project ~
 
-- Leader: **Alpha Green Mg**
+## Season A - Community Version: 
 
-- Season A - Community Version: (Preparing Character for it, likely to be version 8.0.0)
+(Preparing Character for it, likely to be version 8.0.0)
 
 <img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/30a2ff86-62a5-42ef-aab2-941835f89ed5" />
 
-- Season 3:
+Characters for project:
 
-+ Chapter 1: The Tale of Lonely Maguneshiumu [(v.7.0.0)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.0.0-release)
+- Main menu - ???, ???, ???
+
+- Combobursts (9 slots) - Buzzbud (@buzzbud1214)
+
+- Catcher (for osu! catch) - ???, ???, ???
+
+- Spinner (for osu! standard) - ???, ???, ???, ???, ???
+
+## Season 3 - Journey of Cats & Nature:
+
++ Chapter 1: The Tale of Lonely Maguneshiumu [(**v.7.0.0**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.0.0-release)
 
 [<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/15efa7b8-c732-4664-9f3b-e3a9d472c6f7" />](https://compendium.skinship.xyz/2026-04-07/2195196)
 
-+ Chapter 2: Untold dream of Alpha Mg (7.1.0)
++ Chapter 2: Untold dream of Alpha Mg (**7.1.0**)
 
 (Working on it)
 
-+ Chapter 3: Royal Mg - Ambition of Forest (7.2.0)
++ Chapter 3: Royal Mg - Ambition of Forest (**7.2.0**)
 
 (Coming Soon!)
 
-+ Chapter 4: Beta Mg and Midnight Wish (7.3.0)
++ Chapter 4: Beta Mg and Midnight Wish (**7.3.0**)
 
 (Coming Soon!)
 
-- Season 2: [**6.0.1**](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.1-release) | [**Go here for the forum**](https://osu.ppy.sh/community/forums/topics/2190251?n=1) | [**Go here for skinship compendium**](https://compendium.skinship.xyz/2026-03-22/2190251) | [**Go here for osu!ck compendium**](https://skins.osuck.net/skins/5156?tab=resources)
+## Season 2: 
+- Version: [**6.0.1**](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.1-release) | [**Go here for the forum**](https://osu.ppy.sh/community/forums/topics/2190251?n=1) | [**Go here for skinship compendium**](https://compendium.skinship.xyz/2026-03-22/2190251) | [**Go here for osu!ck compendium**](https://skins.osuck.net/skins/5156?tab=resources)
 
 [<img width="1000" height="500" alt="Project banner" src="https://github.com/user-attachments/assets/aa04cd34-73f1-452c-95ce-830022b807d7" />](https://compendium.skinship.xyz/2026-03-22/2190251)
 
-- Season 1: [**Moved to here**](https://github.com/greenmg2003/osu-mg-reload)
+## Season 1: [**Moved to here**](https://github.com/greenmg2003/osu-mg-reload)
 
-- Copyright issue: All image elements, if you want to reuse it, please credit me. It's a non-commercial project after all.
+## Information:
+
+- Leader: **Alpha Green Mg**
+
+- Copyright issue: All image elements, if you want to reuse it, please credit me. It's a non-commercial project after all. All the characters in Community Version belong to the Original Creator, I do not own them.
 
 - Credits: [skinship](https://skinship.xyz/) (for aiding me through the project), [TETR.IO](https://tetr.io/) (for allowing me to use some sound effects)
 
