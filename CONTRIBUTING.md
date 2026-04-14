@@ -18,9 +18,9 @@
 
 \+ If the owners or admins of this project tell you to stop, please stop. Their decision is final, no point being against them.
 
-### R-2. Refrain from referring the project as a part of Gacha Communities.
+### R-2. Only refer the Community Version of the project as a part of Gacha Communities.
 
-\+ The project is not affiliated with Gacha Communities (Specificially Gacha Life, Gacha Club, Gacha Life 2 Communities). Calling this as part of the communities is not allowed.
+\+ The project is affiliated with Gacha Communities (Specificially Gacha Life, Gacha Club, Gacha Life 2 Communities) **only in Community Version**. Calling the other versions of this project as part of the communities is not allowed.
 
 \+ Do not attack the one who supported my project all along, they are not deserved to be harassed.
 
