@@ -14,7 +14,9 @@ Current status: Season 3 - Working on Chapter 2
 
 - Leader: **Alpha Green Mg**
 
-- Community Version: (Preparing Character for it, likely to be version 8.0.0)
+- Season A - Community Version: (Preparing Character for it, likely to be version 8.0.0)
+
+<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/30a2ff86-62a5-42ef-aab2-941835f89ed5" />
 
 - Season 3:
 
