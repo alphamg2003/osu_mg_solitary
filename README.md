@@ -14,11 +14,13 @@ Current status: Season 3 - Working on Chapter 2
 
 - Leader: **Alpha Green Mg**
 
+- Community Version: (Preparing Character for it, likely to be version 8.0.0)
+
 - Season 3:
 
 + Chapter 1: The Tale of Lonely Maguneshiumu [(v.7.0.0)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.0.0-release)
 
-[<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/15efa7b8-c732-4664-9f3b-e3a9d472c6f7" />](https://osu.ppy.sh/community/forums/topics/2195196)
+[<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/15efa7b8-c732-4664-9f3b-e3a9d472c6f7" />](https://compendium.skinship.xyz/2026-04-07/2195196)
 
 + Chapter 2: Untold dream of Alpha Mg (7.1.0)
 
@@ -34,7 +36,7 @@ Current status: Season 3 - Working on Chapter 2
 
 - Season 2: [**6.0.1**](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.6.0.1-release) | [**Go here for the forum**](https://osu.ppy.sh/community/forums/topics/2190251?n=1) | [**Go here for skinship compendium**](https://compendium.skinship.xyz/2026-03-22/2190251) | [**Go here for osu!ck compendium**](https://skins.osuck.net/skins/5156?tab=resources)
 
-[<img width="1000" height="500" alt="Project banner" src="https://github.com/user-attachments/assets/aa04cd34-73f1-452c-95ce-830022b807d7" />](https://osu.ppy.sh/community/forums/topics/2190251?n=1)
+[<img width="1000" height="500" alt="Project banner" src="https://github.com/user-attachments/assets/aa04cd34-73f1-452c-95ce-830022b807d7" />](https://compendium.skinship.xyz/2026-03-22/2190251)
 
 - Season 1: [**Moved to here**](https://github.com/greenmg2003/osu-mg-reload)
 
@@ -56,7 +58,7 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                  Important 
                                 
-⚠ **The Project (along with big project - osu! Gacha Club) IS NOT a part of entire Gacha Community.** That does not mean I stopped supporting the game. I simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md). All the hatred that I received that is like "Ew Gacha" or "Gacha is disgusting" will be redirected to community, I do not have time to deal with that.
+⚠ **The Project (along with big project - osu! Gacha Club) IS NOT a part of entire Gacha Community, _except the Community Version_.** That does not mean I stopped supporting the game. As of main project, I simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md). There is only an exception, that is the Community Version. Starting on 14/04/2026, after a lot of internal consideration, I open Community Version as a part of Gacha Community.
 
 ⚠ **I DO NOT welcome kids from Gacha Community who are 13 years old and below, or cringe, heat content creators.** As stated, this project is only for the one who wish to sail on same boat with me and support me. 
 
