@@ -71,7 +71,9 @@ Characters for project:
 
 - Season 2 playtesters: Rory, [xBlus](https://osu.ppy.sh/users/21592561)
 
-- Helpers/Supporters (inside community): [Redo_](https://osu.ppy.sh/users/7122165), [lilrawk](https://osu.ppy.sh/users/13799581), [5teven](https://osu.ppy.sh/users/8568397), [Lagz26](https://osu.ppy.sh/users/32852603) (This guy gave me ingenious idea), [Jianshyy](https://osu.ppy.sh/users/9178563) (This guy also gave me ingenious idea), [Unryuu](https://osu.ppy.sh/users/12068679), [thetruenewbie](https://osu.ppy.sh/users/30445073), [Neumann](https://osu.ppy.sh/users/13565278), [Jole](https://osu.ppy.sh/users/2883132), [Green Day (Roki)](https://osu.ppy.sh/users/6837972), [Rurikawa/intelstellar](https://github.com/intelstellar), [FarFle_](https://osu.ppy.sh/users/29918299)
+- Season 3 Chapter 1 playtester: [Rurikawa/intelstellar](https://github.com/intelstellar) ([playtest video](https://medal.tv/games/osu/clips/mxEnaif72FnK3yHE0?invite=cr-MSxXWmssNDc2Mjk2MTcz&v=55))
+
+- Helpers/Supporters (inside community): [Redo_](https://osu.ppy.sh/users/7122165), [lilrawk](https://osu.ppy.sh/users/13799581), [5teven](https://osu.ppy.sh/users/8568397), [Lagz26](https://osu.ppy.sh/users/32852603) (This guy gave me ingenious idea), [Jianshyy](https://osu.ppy.sh/users/9178563) (This guy also gave me ingenious idea), [Unryuu](https://osu.ppy.sh/users/12068679), [thetruenewbie](https://osu.ppy.sh/users/30445073), [Neumann](https://osu.ppy.sh/users/13565278), [Jole](https://osu.ppy.sh/users/2883132), [Green Day (Roki)](https://osu.ppy.sh/users/6837972), [FarFle_](https://osu.ppy.sh/users/29918299)
 
 - Extra helpers: [TETR.IO server](https://discord.com/invite/tetrio) and [Psych2Go server](https://discord.gg/EsWEvrJ), Eggnog (Psych2Go), Vivi (Mystic Forest), JP ([CHAOZ SERVER](https://discord.gg/zXNuBysUtz)), Shahar ([Mystic Forest](https://discord.gg/FHXKFYCzp)), JJAnimations857, Miho ([Lunitown](https://discord.gg/vgJNjaN2v4)), Raine/Blehhgv .☆ (Lunitown)
 
