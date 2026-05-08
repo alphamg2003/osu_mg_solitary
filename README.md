@@ -28,7 +28,7 @@ Branch status: Season 3 - Chapter 2 - 100% Done!
 
 - Helper/Idea hint giver: [Redo](url=https://osu.ppy.sh/users/7122165) (Hint on icon, color), [lilrawk](https://osu.ppy.sh/users/13799581) (pecking ingenious idea on hitcircle), [Green Day (Roki)](https://osu.ppy.sh/users/6837972) (Inspired me to try taiko skinning), [eightyfivenine](https://user8595.github.io/) (TETR.IO server) (idea on Mods icon) and [Marilyn](https://ch.tetr.io/u/marilynkitsune)  (TETR.IO server) (idea on Options icon)
 
-- Supporters: Nycronoid ([Nycro's Galaxy[(https://discord.gg/7mMxteJbjk)), [kae1](https://osu.ppy.sh/users/27779868), Siyul (Psych2Go), Vivi (Mystic Forest), [Cube](https://ch.tetr.io/u/cube] (TETR.IO server), [skinship community](https://discord.gg/skinship-591469672747106304), [TETR.IO server](https://discord.com/invite/tetrio) and [Psych2Go server](https://discord.gg/EsWEvrJ)[/color]
+- Supporters: Nycronoid ([Nycro's Galaxy](https://discord.gg/7mMxteJbjk)), [kae1](https://osu.ppy.sh/users/27779868), Siyul (Psych2Go), Vivi (Mystic Forest), [Cube](https://ch.tetr.io/u/cube] (TETR.IO server), [skinship community](https://discord.gg/skinship-591469672747106304), [TETR.IO server](https://discord.com/invite/tetrio) and [Psych2Go server](https://discord.gg/EsWEvrJ)[/color]
 
 - If you have an osu! account and wanna set sail with me, I'll create a team for you to hop in later
 
