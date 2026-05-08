@@ -51,7 +51,15 @@ Characters for project:
 
 (Coming Soon!)
 
-+ Chapter 6: Himuro Akita & Enchanted Ice Journey (**7.5.0**)
++ Chapter 6: Mikan Amane & Heaven Journey (**7.5.0**)
+
+(Coming Soon!)
+
++ Chapter 7: Himuro Akita & Enchanted Ice Journey (**7.6.0**)
+
+(Coming Soon!)
+
++ Chapter 8: Tabi Karushiumu - The Mechanical Knowledge (**7.7.0**)
 
 (Coming Soon!)
 
@@ -80,7 +88,7 @@ Characters for project:
 
 - Season 2 feedback: [Light_Palette](https://osu.ppy.sh/users/30800310)
 
-- If you have an osu! account and wanna set sail with me, I'll create a team for you to hop in later
+- If you have an osu! account and wanna set sail with me, [come here](https://osu.ppy.sh/teams/42565)
 
 Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
