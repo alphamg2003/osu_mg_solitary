@@ -36,7 +36,7 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                  Important 
                                 
-⚠ **This Chapter (along with this sub-project, and big project - osu! Gacha Club) IS NOT a part of entire Gacha Community, _except the Community Version_.** That does not mean I stopped supporting the game. As of main project, I simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md). There is only an exception, that is the Community Version. Starting on 14/04/2026, after a lot of internal consideration, I open Community Version as a part of Gacha Community.	
+⚠ **This Chapter (along with this sub-project, and big project - osu! Gacha Club) IS NOT a part of entire Gacha Community, _except the Community Version_.** That does not mean I stopped supporting the game. As of main project, I simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md).
 
 ⚠ **I DO NOT welcome kids from Gacha Community who are 13 years old and below, or cringe, heat content creators.** As stated, this project is only for the one who wish to sail on same boat with me and support me. 
 
