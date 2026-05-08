@@ -4,7 +4,7 @@ The only active core project of osu! Gacha Club, that brings self-made character
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Current status: Season 3 - Chapter 2 pending for compendium staff | Working on Chapter 3
+Current status: Season 3 - Chapter 2, Chapter 3: Pending for compendium staff | Working on Chapter 4
 
 [Stability Status]: As of now, the project is stable.
 
@@ -38,7 +38,7 @@ Characters for project:
 
 [<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/fb9d6ecd-0f31-46e7-9bb4-32aaf2450dc0" />](https://osu.ppy.sh/community/forums/topics/2198487)
 
-+ Chapter 3: Hirawa Amnesia - The Forgotten Knight (**7.2.0**)
++ Chapter 3: Hirawa Amnesia - The Forgotten Knight [(**7.2.0**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.2.0-release)
 
 [<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/f502cacb-a5d9-45b9-b3de-7ed66701ad1e" />](https://osu.ppy.sh/community/forums/topics/2201462)
 
@@ -72,11 +72,11 @@ Characters for project:
 
 - Season 2 playtesters: Rory, [xBlus](https://osu.ppy.sh/users/21592561)
 
-- Season 3 Chapter 1 playtester: [Rurikawa/intelstellar](https://github.com/intelstellar) ([playtest video](https://medal.tv/games/osu/clips/mxEnaif72FnK3yHE0?invite=cr-MSxXWmssNDc2Mjk2MTcz&v=55))
+- Season 3 Chapter 1 playtester: [Rurikawa/intelstellar](https://github.com/intelstellar) ([playtest video](https://medal.tv/games/osu/clips/mxEnaif72FnK3yHE0?invite=cr-MSxXWmssNDc2Mjk2MTcz&v=55)), [arti_creep](https://osu.ppy.sh/users/14662141)
 
-- Helpers/Supporters (inside community): [Redo_](https://osu.ppy.sh/users/7122165), [lilrawk](https://osu.ppy.sh/users/13799581), [5teven](https://osu.ppy.sh/users/8568397), [Lagz26](https://osu.ppy.sh/users/32852603) (This guy gave me ingenious idea), [Jianshyy](https://osu.ppy.sh/users/9178563) (This guy also gave me ingenious idea), [Unryuu](https://osu.ppy.sh/users/12068679), [thetruenewbie](https://osu.ppy.sh/users/30445073), [Neumann](https://osu.ppy.sh/users/13565278), [Jole](https://osu.ppy.sh/users/2883132), [Green Day (Roki)](https://osu.ppy.sh/users/6837972), [FarFle_](https://osu.ppy.sh/users/29918299)
+- Helpers/Supporters (inside community): [Redo_](https://osu.ppy.sh/users/7122165), [lilrawk](https://osu.ppy.sh/users/13799581), [5teven](https://osu.ppy.sh/users/8568397), [Lagz26](https://osu.ppy.sh/users/32852603) (This guy gave me ingenious idea), [Jianshyy](https://osu.ppy.sh/users/9178563) (This guy also gave me ingenious idea), [Unryuu](https://osu.ppy.sh/users/12068679), [thetruenewbie](https://osu.ppy.sh/users/30445073), [Neumann](https://osu.ppy.sh/users/13565278), [Jole](https://osu.ppy.sh/users/2883132), [Green Day (Roki)](https://osu.ppy.sh/users/6837972), [FarFle_](https://osu.ppy.sh/users/29918299), [kae1](https://osu.ppy.sh/users/27779868)
 
-- Extra helpers: [TETR.IO server](https://discord.com/invite/tetrio) and [Psych2Go server](https://discord.gg/EsWEvrJ), Eggnog (Psych2Go), Vivi (Mystic Forest), JP ([CHAOZ SERVER](https://discord.gg/zXNuBysUtz)), Shahar ([Mystic Forest](https://discord.gg/FHXKFYCzp)), JJAnimations857, Miho ([Lunitown](https://discord.gg/vgJNjaN2v4)), Raine/Blehhgv .☆ (Lunitown)
+- Extra helpers: [TETR.IO server](https://discord.com/invite/tetrio), [Psych2Go server](https://discord.gg/EsWEvrJ), [eightyfivenine](https://user8595.github.io/) (TETR.IO server), [Cube](https://ch.tetr.io/u/cube) (TETR.IO server), [Marilyn](https://ch.tetr.io/u/marilynkitsune)  (TETR.IO server), Eggnog (Psych2Go), Siyul (Psych2Go), Vivi (Mystic Forest), JP ([CHAOZ SERVER](https://discord.gg/zXNuBysUtz)), Shahar ([Mystic Forest](https://discord.gg/FHXKFYCzp)), JJAnimations857, Miho ([Lunitown](https://discord.gg/vgJNjaN2v4)), Raine/Blehhgv .☆ (Lunitown), Nycronoid ([Nycro's Galaxy](https://discord.gg/7mMxteJbjk)),  
 
 - Season 2 feedback: [Light_Palette](https://osu.ppy.sh/users/30800310)
 
@@ -97,68 +97,94 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                 ~ Media (Latest Version) ~
 
-## Season 3 - Chapter 2:
+## Season 3 - Chapter 3:
 
 ### Song Select
 
-<img width="1366" height="768" alt="screenshot646" src="https://github.com/user-attachments/assets/9119fe56-f5b7-4449-a169-282953c56e7e" />
+<img width="1366" height="768" alt="screenshot852" src="https://github.com/user-attachments/assets/ecf5cdf4-769b-45bd-8c3d-bcdc63d62051" />
 
-<img width="1366" height="768" alt="screenshot617" src="https://github.com/user-attachments/assets/78079ae8-7125-4de2-a854-61d94b1966a1" />
+<img width="1366" height="768" alt="screenshot870" src="https://github.com/user-attachments/assets/bb854040-d33f-4c76-b20c-8122f3802e6b" />
+
 
 ### Mod selection
 
-<img width="1366" height="768" alt="screenshot615" src="https://github.com/user-attachments/assets/3492e15f-bf99-4a2b-b6fd-5a07057b2aec" />
+<img width="1366" height="768" alt="screenshot853" src="https://github.com/user-attachments/assets/76f23ab0-c82b-45de-9d93-eb0a5b230468" />
 
-<img width="1366" height="768" alt="screenshot616" src="https://github.com/user-attachments/assets/8f3a2cee-d72f-4f3b-bfad-96d0709684bc" />
+<img width="1366" height="768" alt="screenshot854" src="https://github.com/user-attachments/assets/3bd1d28e-d8cb-4fe5-b05a-b7b8dbe8e6a5" />
 
 ### Circles and Sliders
 
-<img width="1366" height="768" alt="screenshot622" src="https://github.com/user-attachments/assets/9c87a9e8-1ca8-402a-bb6f-b4a77efa04d7" />
+<img width="1366" height="768" alt="screenshot859" src="https://github.com/user-attachments/assets/bf2c648b-49ae-41dd-8428-ac201135823c" />
 
 ### Spinner
 
-<img width="1366" height="768" alt="screenshot623" src="https://github.com/user-attachments/assets/a0a42bf2-b864-4553-8df8-d6769beb786d" />
+<img width="1366" height="768" alt="screenshot861" src="https://github.com/user-attachments/assets/ee63c7ec-7be9-4706-a55d-d999704e0fec" />
 
 ### Taiko! mode
 
-<img width="1366" height="768" alt="screenshot642" src="https://github.com/user-attachments/assets/69569bce-3ffd-44dc-9351-fe3781bb282e" />
+<img width="1366" height="768" alt="screenshot862" src="https://github.com/user-attachments/assets/c16fee2e-01c2-4514-9483-995102f18ad2" />
 
-<img width="1366" height="768" alt="screenshot643" src="https://github.com/user-attachments/assets/fd1c4020-3a03-47e7-9009-32420bd64fc6" />
+<img width="1366" height="768" alt="screenshot866" src="https://github.com/user-attachments/assets/004cb1f6-d108-4c65-83b4-cfa8d63a6195" />
 
-<img width="1366" height="768" alt="screenshot644" src="https://github.com/user-attachments/assets/3926af6a-8cc6-4131-8f6f-551649b443f3" />
+<img width="1366" height="768" alt="screenshot865" src="https://github.com/user-attachments/assets/d2431645-0e29-4028-82c0-5663e8d4b6fc" />
 
-<img width="1366" height="768" alt="screenshot645" src="https://github.com/user-attachments/assets/60f285c1-5694-4a1e-af19-36aaf5ab47d1" />
+<img width="1366" height="768" alt="screenshot863" src="https://github.com/user-attachments/assets/6973c17e-f75b-40eb-b3cc-7dc94b8a117a" />
+
 
 ### Catch! mode
 
-<img width="1366" height="768" alt="screenshot639" src="https://github.com/user-attachments/assets/f77ff453-0453-4018-bd9d-d263e8f5d7cf" />
+<img width="1366" height="768" alt="screenshot867" src="https://github.com/user-attachments/assets/e003d9ba-c544-44e3-abd5-64d2caf50857" />
 
-<img width="1366" height="768" alt="screenshot640" src="https://github.com/user-attachments/assets/0bdd4c55-a65a-42c1-9902-5a3e8d0b7764" />
+<img width="1366" height="768" alt="screenshot868" src="https://github.com/user-attachments/assets/9c1455e7-3d27-41dd-87ad-690be43e8a50" />
 
-<img width="1366" height="768" alt="screenshot641" src="https://github.com/user-attachments/assets/882bf81d-19e5-4960-9dba-397baf4d5391" />
+<img width="1366" height="768" alt="screenshot869" src="https://github.com/user-attachments/assets/a696ed99-b6db-4cfe-a966-4f282093e658" />
+
 
 ### Result Screen
 
-<img width="1366" height="768" alt="screenshot618" src="https://github.com/user-attachments/assets/2bf1543d-3852-4fbb-a4d8-23a8337237fc" />
+<img width="1366" height="768" alt="screenshot857" src="https://github.com/user-attachments/assets/800e064d-78ac-4545-9fbb-0ac890982d33" />
 
-<img width="1366" height="768" alt="screenshot620" src="https://github.com/user-attachments/assets/1fcdec24-4ae2-465f-85ce-5462ef1661c6" />
+<img width="1366" height="768" alt="screenshot910" src="https://github.com/user-attachments/assets/a55c553d-52d3-4f80-adbb-e62ad831aed9" />
 
-<img width="1366" height="768" alt="screenshot624" src="https://github.com/user-attachments/assets/3e7e416d-2b0e-4fde-9c70-764e933ebe23" />
+<img width="1366" height="768" alt="screenshot856" src="https://github.com/user-attachments/assets/0ad8f4c7-91e0-4eb5-bd8b-5ad0f908a366" />
+
+<img width="1366" height="768" alt="screenshot855" src="https://github.com/user-attachments/assets/60c2ec0a-56c6-4925-933d-511f5958993b" />
+
 
 ### Pause Screen
 
-<img width="1366" height="768" alt="screenshot637" src="https://github.com/user-attachments/assets/cb3172e1-2a13-4023-b392-a398e053ff35" />
+<img width="1366" height="768" alt="screenshot875" src="https://github.com/user-attachments/assets/dae03595-8ab4-4151-88d7-bb632b968b0c" />
+
 
 ### Fail Screen
 
-<img width="1366" height="768" alt="screenshot638" src="https://github.com/user-attachments/assets/f2d7e663-0a46-4584-bfcf-d6587aa8550b" />
+<img width="1366" height="768" alt="screenshot876" src="https://github.com/user-attachments/assets/65a30a90-2e22-4795-a925-4a029e8bd6c0" />
+
 
 # ~ Changelog ~
 
-(Main branch will only show the latest version: `v.7.1.1`, others will be moved to respective branches!)
+(Main branch will only show the latest version: `v.7.2.0`, others will be moved to respective branches!)
 
-## [7.1.1](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.1.1-release)
+## [7.2.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.2.0-release)
 
-- Critical fix on Taiko Slider and Taiko Slider Fail, since the contrast is too bad (suggested by [XetThe](https://osu.ppy.sh/users/16274977))
+_I was a knight that was once a hero. Countless battle. Endless trial. The one that stood proud, and protected the kingdom, protected people I appreciated the most. There were trials that I thought I could fail, but I overcame all. That time, everyone called me a hero._
 
-- Updated versioning to 7.1.1
+_But then, for some reason... I got painted as a villain, and forgotten by humanity. All because, the kingdom began to be corrupted. All because... I simply don't want to go on field. I was exhausted, tired, and even got betrayed. I also got exiled too. The time sure changed people. Because of greed._
+
+_But that is okay. This journey with Alpha Cats will be my own path too. I want to be an adventurer with Alpha Mg, with Maguneshiumu, and all the buddies. We will watch fireworks when the spring comes. We will all ascend again. Heaven will be for people who are brave enough to paint their own will, not for people who are corrupted._
+
+_**Therefore, I introduce again to you. I am Hirawa Amnesia ( 平和 (ひらわ) アムネシア ), a forgotten knight, berserker of adventurer team, and the artist of my life, dear travelers.**_
+
+- Initial release
+
+- Reworked song select, focus on Hirawa Amnesia
+
+- Adjusted the numbers to make it more on the theme of Hirawa-kun
+
+- Reworked entire mod icons, ranking panel, HP Bar
+
+- Keep Energy Rate since every buddies that has direct relation to Ouritsu-kun uses "Energy Rate" as a whole
+
+- Updated Spicy text files
+
+- Added bottom part of Ranking Panel
