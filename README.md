@@ -30,7 +30,7 @@ Branch status: Season 3 - Chapter 2 - 100% Done!
 
 - Supporters: Nycronoid ([Nycro's Galaxy](https://discord.gg/7mMxteJbjk)), [kae1](https://osu.ppy.sh/users/27779868), Siyul (Psych2Go Server), Vivi (Mystic Forest), [Cube](https://ch.tetr.io/u/cube) (TETR.IO server), [skinship community](https://discord.gg/skinship-591469672747106304), [TETR.IO server](https://discord.com/invite/tetrio) and [Psych2Go server](https://discord.gg/EsWEvrJ)[/color]
 
-- If you have an osu! account and wanna set sail with me, I'll create a team for you to hop in later
+- If you have an osu! account and wanna set sail with me, [go here](https://osu.ppy.sh/teams/42565)
 
 Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
