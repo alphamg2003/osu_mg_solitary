@@ -40,7 +40,7 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 ⚠ **I DO NOT welcome kids from Gacha Community who are 13 years old and below, or cringe, heat content creators.** As stated, this project is only for the one who wish to sail on same boat with me and support me. 
 
-✳ This chappter has HD version supported. **Note that this chapter only focuses on osu! standard, osu! catch and osu! taiko.** The remaining mode will come at later chapters when I feel like it, or you can contribute to it!
+✳ This chapter has HD version supported. **Note that this chapter only focuses on osu! standard, osu! catch and osu! taiko.** The remaining mode will come at later chapters when I feel like it, or you can contribute to it!
 
 ✳ Want to contribue? [Great, read this first before contributing!](https://github.com/alphamg2003/osu_mg_solitary/blob/main/CONTRIBUTING.md)
 
