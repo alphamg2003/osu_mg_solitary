@@ -24,7 +24,7 @@ Branch status: Season 3 - Chapter 1 - 100% Done!
 
 - Credits: [skinship](https://skinship.xyz/) (for aiding me through the project), [TETR.IO](https://tetr.io/) (for allowing me to use some sound effects)
 
-- Season 3 Chapter 1 playtesters: None
+- Season 3 Chapter 1 playtesters: [Rurikawa/intelstellar](https://github.com/intelstellar) ([playtest video](https://medal.tv/games/osu/clips/mxEnaif72FnK3yHE0?invite=cr-MSxXWmssNDc2Mjk2MTcz&v=55)), [arti_creep](https://osu.ppy.sh/users/14662141)
 
 - Helpers/Supporters (inside community): _CL1F, [lilrawk](https://osu.ppy.sh/users/13799581),  [Lagz26](https://osu.ppy.sh/users/32852603), [Unryuu](https://osu.ppy.sh/users/12068679),[thetruenewbie](https://osu.ppy.sh/users/30445073), [TETR.IO server](https://discord.com/invite/tetrio), [Neumann](https://osu.ppy.sh/users/13565278), [Jole](https://osu.ppy.sh/users/2883132), [Green Day (Roki)](https://osu.ppy.sh/users/6837972), [Rurikawa/intelstellar](https://github.com/intelstellar), [FarFle_](https://osu.ppy.sh/users/29918299)
 
@@ -36,7 +36,7 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                  Important 
                                 
-⚠ **The Project (along with big project - osu! Gacha Club) IS NOT a part of Gacha Community.** That does not mean I stopped supporting the game. I simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md). All the hatred that I received that is like "Ew Gacha" or "Gacha is disgusting" will be redirected to community, I do not have time to deal with that.
+⚠ **This Chapter (along with this sub-project, and big project - osu! Gacha Club) IS NOT a part of entire Gacha Community, _except the Community Version_.** That does not mean I stopped supporting the game. As of main project, I simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md). There is only an exception, that is the Community Version. Starting on 14/04/2026, after a lot of internal consideration, I open Community Version as a part of Gacha Community.
 
 ⚠ **I DO NOT welcome kids from Gacha Community who are 13 years old and below, or cringe, heat content creators.** As stated, this project is only for the one who wish to sail on same boat with me and support me. 
 
@@ -95,13 +95,13 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 # ~ Changelog ~
 
-## [7.0.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.0.0-release)
-
 _You think it is over, right? That I am only a pathetic emperor of Nature Land, still suffering from **that** event?_
 
 _... I am here, to rewrite my own tale. The tale of me, as a **retired** emperor of Nature Land, adventuring through the Winter Forest and new area waiting for me to uncover._
 
 _**And my name, dear travelers, is Ouritsu Maguneshiumu 王立 (おうりつ) マグネシウム).**_
+
+## [7.0.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.0.0-release)
 
 - Reworked song select, focus on Maguneshiumu
 
