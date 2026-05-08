@@ -4,7 +4,7 @@ The only active core project of osu! Gacha Club, that brings self-made character
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Branch status: Season 3 - Chapter 1 - 100% Done!
+Branch status: Season 3 - Chapter 3 - 100% Done!
 
 [Stability Status]: As of now, the project is stable.
 
@@ -16,99 +16,121 @@ Branch status: Season 3 - Chapter 1 - 100% Done!
 
 - Season 3:
 
-+ Chapter 1: **The Tale of Lonely Maguneshiumu** [(**v.7.0.0**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.0.0-release)
++ Chapter 3: Hirawa Amnesia - The Forgotten Knight [(**7.2.0**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.2.0-release)
 
-[<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/15efa7b8-c732-4664-9f3b-e3a9d472c6f7" />](https://osu.ppy.sh/community/forums/topics/2195196)
+[<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/f502cacb-a5d9-45b9-b3de-7ed66701ad1e" />](https://osu.ppy.sh/community/forums/topics/2201462)
 
 - Copyright issue: All image elements, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
 - Credits: [skinship](https://skinship.xyz/) (for aiding me through the project), [TETR.IO](https://tetr.io/) (for allowing me to use some sound effects)
 
-- Season 3 Chapter 1 playtesters: None
+- Helper/Idea hint giver: _CL1F (W suggestion on a lot of part for this chapter), [h3oCharles](https://osu.ppy.sh/users/8712289) (Consistency hint), [lilrawk](https://osu.ppy.sh/users/13799581) (Guided me the right path, especially on the Song Select Bottom Part)
 
-- Helpers/Supporters (inside community): _CL1F, [lilrawk](https://osu.ppy.sh/users/13799581),  [Lagz26](https://osu.ppy.sh/users/32852603), [Unryuu](https://osu.ppy.sh/users/12068679),[thetruenewbie](https://osu.ppy.sh/users/30445073), [TETR.IO server](https://discord.com/invite/tetrio), [Neumann](https://osu.ppy.sh/users/13565278), [Jole](https://osu.ppy.sh/users/2883132), [Green Day (Roki)](https://osu.ppy.sh/users/6837972), [Rurikawa/intelstellar](https://github.com/intelstellar), [FarFle_](https://osu.ppy.sh/users/29918299)
+- Extra helpers: Siyul (Psych2Go), Vivi (Mystic Forest), [skinship community](https://discord.gg/skinship-591469672747106304), [TETR.IO server](https://discord.com/invite/tetrio) and [Psych2Go server](https://discord.gg/EsWEvrJ)[/color]
 
-- Extra helpers: Vivi (Mystic Forest), JP (CHAOZ SERVER), Shahar (Mystic Forest), JJAnimations857, Miho (Lunitown), Raine/Blehhgv .☆ (Lunitown)
-
-- If you have an osu! account and wanna set sail with me, I'll create a team for you to hop in later
+- If you have an osu! account and wanna set sail with me, [go here](https://osu.ppy.sh/teams/42565)
 
 Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                  Important 
                                 
-⚠ **The Project (along with big project - osu! Gacha Club) IS NOT a part of Gacha Community.** That does not mean I stopped supporting the game. I simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md). All the hatred that I received that is like "Ew Gacha" or "Gacha is disgusting" will be redirected to community, I do not have time to deal with that.
+⚠ **This Chapter (along with this sub-project, and big project - osu! Gacha Club) IS NOT a part of entire Gacha Community, _except the Community Version_.** That does not mean I stopped supporting the game. As of main project, I simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md). 
 
 ⚠ **I DO NOT welcome kids from Gacha Community who are 13 years old and below, or cringe, heat content creators.** As stated, this project is only for the one who wish to sail on same boat with me and support me. 
 
-✳ Starting from season 2: The skin will be fully supported with HD with new design. **Note that this project only focuses on osu! catch and osu! standard.** The remaining mode will come at later seasons when I feel like it, or you can contribute to it!
+✳ This chapter has HD version supported. **Note that this chapter only focuses on osu! standard, osu! catch and osu! taiko.** The remaining mode will come at later chapters when I feel like it, or you can contribute to it!
 
 ✳ Want to contribue? [Great, read this first before contributing!](https://github.com/alphamg2003/osu_mg_solitary/blob/main/CONTRIBUTING.md)
 
 
 #                                 ~ Media (Latest Version) ~
 
-## Season 3 - Chapter 1:
-
+## Season 3 - Chapter 3:
 
 ### Song Select
 
-![screenshot489](https://github.com/user-attachments/assets/5f8c4c5e-6601-48e2-84d4-40ae102c980f)
+<img width="1366" height="768" alt="screenshot852" src="https://github.com/user-attachments/assets/ecf5cdf4-769b-45bd-8c3d-bcdc63d62051" />
 
-![screenshot492](https://github.com/user-attachments/assets/f7a4d9a9-73d3-4845-a97f-800746bf4489)
+<img width="1366" height="768" alt="screenshot870" src="https://github.com/user-attachments/assets/bb854040-d33f-4c76-b20c-8122f3802e6b" />
 
 
 ### Mod selection
 
-![screenshot490](https://github.com/user-attachments/assets/9f0bc57d-533c-4204-8cfa-b674319ea041)
+<img width="1366" height="768" alt="screenshot853" src="https://github.com/user-attachments/assets/76f23ab0-c82b-45de-9d93-eb0a5b230468" />
 
+<img width="1366" height="768" alt="screenshot854" src="https://github.com/user-attachments/assets/3bd1d28e-d8cb-4fe5-b05a-b7b8dbe8e6a5" />
 
 ### Circles and Sliders
 
-![screenshot495](https://github.com/user-attachments/assets/99159658-7be7-4129-a0a6-a88c8954e186)
-
+<img width="1366" height="768" alt="screenshot859" src="https://github.com/user-attachments/assets/bf2c648b-49ae-41dd-8428-ac201135823c" />
 
 ### Spinner
 
-![screenshot497](https://github.com/user-attachments/assets/9616ef24-1f3e-44e9-967f-bd7353140c9c)
+<img width="1366" height="768" alt="screenshot861" src="https://github.com/user-attachments/assets/ee63c7ec-7be9-4706-a55d-d999704e0fec" />
+
+### Taiko! mode
+
+<img width="1366" height="768" alt="screenshot862" src="https://github.com/user-attachments/assets/c16fee2e-01c2-4514-9483-995102f18ad2" />
+
+<img width="1366" height="768" alt="screenshot866" src="https://github.com/user-attachments/assets/004cb1f6-d108-4c65-83b4-cfa8d63a6195" />
+
+<img width="1366" height="768" alt="screenshot865" src="https://github.com/user-attachments/assets/d2431645-0e29-4028-82c0-5663e8d4b6fc" />
+
+<img width="1366" height="768" alt="screenshot863" src="https://github.com/user-attachments/assets/6973c17e-f75b-40eb-b3cc-7dc94b8a117a" />
+
 
 ### Catch! mode
 
-![screenshot500](https://github.com/user-attachments/assets/4fae2820-a4d6-4792-9f2d-c0488a13f0f9)
+<img width="1366" height="768" alt="screenshot867" src="https://github.com/user-attachments/assets/e003d9ba-c544-44e3-abd5-64d2caf50857" />
 
-![screenshot503](https://github.com/user-attachments/assets/1571872e-f0df-4b89-8dd1-d53fdcdd8ab2)
+<img width="1366" height="768" alt="screenshot868" src="https://github.com/user-attachments/assets/9c1455e7-3d27-41dd-87ad-690be43e8a50" />
+
+<img width="1366" height="768" alt="screenshot869" src="https://github.com/user-attachments/assets/a696ed99-b6db-4cfe-a966-4f282093e658" />
+
 
 ### Result Screen
 
-![screenshot493](https://github.com/user-attachments/assets/af05ab77-ed7d-490a-a7c7-0cbbf032c350)
+<img width="1366" height="768" alt="screenshot857" src="https://github.com/user-attachments/assets/800e064d-78ac-4545-9fbb-0ac890982d33" />
 
-![screenshot494](https://github.com/user-attachments/assets/1806cc5b-65c0-40a6-a8ad-2dc7a859b38a)
+<img width="1366" height="768" alt="screenshot910" src="https://github.com/user-attachments/assets/a55c553d-52d3-4f80-adbb-e62ad831aed9" />
+
+<img width="1366" height="768" alt="screenshot856" src="https://github.com/user-attachments/assets/0ad8f4c7-91e0-4eb5-bd8b-5ad0f908a366" />
+
+<img width="1366" height="768" alt="screenshot855" src="https://github.com/user-attachments/assets/60c2ec0a-56c6-4925-933d-511f5958993b" />
+
 
 ### Pause Screen
 
-![screenshot498](https://github.com/user-attachments/assets/40667b02-1395-4cf1-bf91-e64978870b02)
+<img width="1366" height="768" alt="screenshot875" src="https://github.com/user-attachments/assets/dae03595-8ab4-4151-88d7-bb632b968b0c" />
 
 
 ### Fail Screen
 
-![screenshot499](https://github.com/user-attachments/assets/52439bc1-a5ac-4d8a-a923-823e82a5dfaf)
+<img width="1366" height="768" alt="screenshot876" src="https://github.com/user-attachments/assets/65a30a90-2e22-4795-a925-4a029e8bd6c0" />
 
 
 # ~ Changelog ~
 
-## [7.0.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.0.0-release)
+_I was a knight that was once a hero. Countless battle. Endless trial. The one that stood proud, and protected the kingdom, protected people I appreciated the most. There were trials that I thought I could fail, but I overcame all. That time, everyone called me a hero._
 
-_You think it is over, right? That I am only a pathetic emperor of Nature Land, still suffering from **that** event?_
+_But then, for some reason... I got painted as a villain, and forgotten by humanity. All because, the kingdom began to be corrupted. All because... I simply don't want to go on field. I was exhausted, tired, and even got betrayed. I also got exiled too. The time sure changed people. Because of greed._
 
-_... I am here, to rewrite my own tale. The tale of me, as a **retired** emperor of Nature Land, adventuring through the Winter Forest and new area waiting for me to uncover._
+_But that is okay. This journey with Alpha Cats will be my own path too. I want to be an adventurer with Alpha Mg, with Maguneshiumu, and all the buddies. We will watch fireworks when the spring comes. We will all ascend again. Heaven will be for people who are brave enough to paint their own will, not for people who are corrupted._
 
-_**And my name, dear travelers, is Ouritsu Maguneshiumu 王立 (おうりつ) マグネシウム).**_
+_**Therefore, I introduce again to you. I am Hirawa Amnesia ( 平和 (ひらわ) アムネシア ), a forgotten knight, berserker of adventurer team, and the artist of my life, dear travelers.**_
 
-- Reworked song select, focus on Maguneshiumu
+## [7.2.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.2.0-release)
 
-- Adjusted the numbers to be bright
+- Initial release
+
+- Reworked song select, focus on Hirawa Amnesia
+
+- Adjusted the numbers to make it more on the theme of Hirawa-kun
 
 - Reworked entire mod icons, ranking panel, HP Bar
 
-- Changed Mana Rate -> Energy Rate
+- Keep Energy Rate since every buddies that has direct relation to Ouritsu-kun uses "Energy Rate" as a whole
 
-- Added additional Spicy text files
+- Updated Spicy text files
+
+- Added bottom part of Ranking Panel
