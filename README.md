@@ -40,7 +40,8 @@ Characters for project:
 
 + Chapter 3: Hirawa Amnesia - The Forgotten Knight (**7.2.0**)
 
-(Coming Soon!)
+[<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/f502cacb-a5d9-45b9-b3de-7ed66701ad1e" />](https://osu.ppy.sh/community/forums/topics/2201462)
+
 
 + Chapter 4: Royal Mg - Ambition of Forest (**7.3.0**)
 
