@@ -70,7 +70,7 @@
 - Using command line: `git clone https://github.com/alphamg2003/osu_mg_solitary.git`
 - On the main screen of this repository, tap on `Code`, then choose `Open with GitHub Desktop`
 
-3. Pick the desired version, create a folder in osu! skin folder with `osu! Mg x.x.x - Season 2`
+3. Pick the desired version, create a folder in osu! skin folder with `osu! Mg x.x.x - Season x`, something like this
 
 <img width="611" height="36" alt="explorer_QS5o224n3g" src="https://github.com/user-attachments/assets/8cf46f1a-e12a-4e6d-b203-581e6257cc6a" />
 
@@ -93,7 +93,7 @@ If you are success, you should see like this, open the branch folder with `Show 
 5. From there, you can work on assets you wish to suggest. Try making @2x version if possible for image assets.
    
 6. When done, copy all the assets you wish to suggest back to `project-assets` inside `osu_mg_solitary`, make summary, commit to the suggesting branch, and publish your branch.
-7. 
+
 <img width="1366" height="728" alt="GitHubDesktop_vQ6MvubkAS" src="https://github.com/user-attachments/assets/fd3aec99-7458-4fa6-9e35-87974dd966f0" />
 
 <img width="1366" height="728" alt="GitHubDesktop_pIg2PBuBbv" src="https://github.com/user-attachments/assets/0c686c82-dcdb-4e91-9cfb-311d0eabb9ee" />
