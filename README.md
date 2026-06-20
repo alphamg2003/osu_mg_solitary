@@ -117,6 +117,8 @@ _**I am Mg, or Alpha Green Mg ( アルファみどりマグネシウム) , the a
 
 - Updated versioning to 7.1.1
 
+- Quick patch on menu-background, mentioned in [#26](https://github.com/alphamg2003/osu_mg_solitary/issues/26)
+
 ## [7.1.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.1.0-release)
 
 - Initial release
