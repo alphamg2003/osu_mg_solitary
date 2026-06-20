@@ -4,7 +4,9 @@ The only active core project of osu! Gacha Club, that brings self-made character
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Current status: Season 3 - Chapter 2, Chapter 3: Pending for compendium staff | Working on Chapter 4
+**Required dependency for this project: [osu! stable](https://osu.ppy.sh/home/download) (or [osu! lazer](https://github.com/ppy/osu))**
+
+Current status: Season 3 - Chapter 1 -> 4: All done | Working on Chapter 5 -> 8 and Community Version
 
 [Stability Status]: As of now, the project is stable.
 
@@ -36,16 +38,17 @@ Characters for project:
 
 + Chapter 2: Untold dream of Alpha Mg [(**7.1.1**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.1.1-release)
 
-[<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/fb9d6ecd-0f31-46e7-9bb4-32aaf2450dc0" />](https://osu.ppy.sh/community/forums/topics/2198487)
+[<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/fb9d6ecd-0f31-46e7-9bb4-32aaf2450dc0" />](https://compendium.skinship.xyz/2026-04-18/2198487)
 
 + Chapter 3: Hirawa Amnesia - The Forgotten Knight [(**7.2.0**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.2.0-release)
 
-[<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/f502cacb-a5d9-45b9-b3de-7ed66701ad1e" />](https://osu.ppy.sh/community/forums/topics/2201462)
+[<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/f502cacb-a5d9-45b9-b3de-7ed66701ad1e" />](https://compendium.skinship.xyz/2026-04-28/2201462)
 
 
-+ Chapter 4: Royal Mg - Ambition of Forest (**7.3.0**)
++ Chapter 4: Royal Mg - Ambition of Forest [(**7.3.0**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.0-release)
 
-(Coming Soon!)
+[<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/e3de280d-4403-46ce-bf78-20be2c7e0e0b" />](https://compendium.skinship.xyz/2026-06-09/2213728)
+
 
 + Chapter 5: Beta Mg and Midnight Wish (**7.4.0**)
 
@@ -109,90 +112,89 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 ### Song Select
 
-<img width="1366" height="768" alt="screenshot852" src="https://github.com/user-attachments/assets/ecf5cdf4-769b-45bd-8c3d-bcdc63d62051" />
+<img width="1366" height="768" alt="screenshot1041" src="https://github.com/user-attachments/assets/85cbbb83-3866-48f4-ad7d-0c996e575959" />
 
-<img width="1366" height="768" alt="screenshot870" src="https://github.com/user-attachments/assets/bb854040-d33f-4c76-b20c-8122f3802e6b" />
+<img width="1366" height="768" alt="screenshot1047" src="https://github.com/user-attachments/assets/c985c31b-6ec0-45c2-8d3a-30a4c2528ddd" />
 
 
 ### Mod selection
 
-<img width="1366" height="768" alt="screenshot853" src="https://github.com/user-attachments/assets/76f23ab0-c82b-45de-9d93-eb0a5b230468" />
+<img width="1366" height="768" alt="screenshot1043" src="https://github.com/user-attachments/assets/3a54f192-abca-43ab-9d8d-e406664a7801" />
 
-<img width="1366" height="768" alt="screenshot854" src="https://github.com/user-attachments/assets/3bd1d28e-d8cb-4fe5-b05a-b7b8dbe8e6a5" />
+<img width="1366" height="768" alt="screenshot1044" src="https://github.com/user-attachments/assets/d7ef912f-315d-41ac-9c6c-9558122c7749" />
 
 ### Circles and Sliders
 
-<img width="1366" height="768" alt="screenshot859" src="https://github.com/user-attachments/assets/bf2c648b-49ae-41dd-8428-ac201135823c" />
+<img width="1366" height="768" alt="screenshot1052" src="https://github.com/user-attachments/assets/1fc08529-34e5-4e18-b311-fe290fcec6c4" />
+
+<img width="1366" height="768" alt="screenshot1053" src="https://github.com/user-attachments/assets/32dcde2e-394c-4758-b235-0e4296be93ff" />
 
 ### Spinner
 
-<img width="1366" height="768" alt="screenshot861" src="https://github.com/user-attachments/assets/ee63c7ec-7be9-4706-a55d-d999704e0fec" />
+<img width="1366" height="768" alt="screenshot1055" src="https://github.com/user-attachments/assets/472aa071-8a0e-45cb-b152-90705eb794d5" />
 
 ### Taiko! mode
 
-<img width="1366" height="768" alt="screenshot862" src="https://github.com/user-attachments/assets/c16fee2e-01c2-4514-9483-995102f18ad2" />
+<img width="1366" height="768" alt="screenshot1060" src="https://github.com/user-attachments/assets/b9a59dc6-097f-45ed-bb18-a32be85a4bb2" />
 
-<img width="1366" height="768" alt="screenshot866" src="https://github.com/user-attachments/assets/004cb1f6-d108-4c65-83b4-cfa8d63a6195" />
+<img width="1366" height="768" alt="screenshot1062" src="https://github.com/user-attachments/assets/9856ab2b-9349-4d27-a297-82a57c1ac00d" />
 
-<img width="1366" height="768" alt="screenshot865" src="https://github.com/user-attachments/assets/d2431645-0e29-4028-82c0-5663e8d4b6fc" />
+<img width="1366" height="768" alt="screenshot1063" src="https://github.com/user-attachments/assets/b7e15f4f-0a5d-4731-9786-071e27b64fd3" />
 
-<img width="1366" height="768" alt="screenshot863" src="https://github.com/user-attachments/assets/6973c17e-f75b-40eb-b3cc-7dc94b8a117a" />
+<img width="1366" height="768" alt="screenshot1064" src="https://github.com/user-attachments/assets/ee122449-e59c-4978-bc8d-84f142b96f6a" />
 
 
 ### Catch! mode
 
-<img width="1366" height="768" alt="screenshot867" src="https://github.com/user-attachments/assets/e003d9ba-c544-44e3-abd5-64d2caf50857" />
+<img width="1366" height="768" alt="screenshot1072" src="https://github.com/user-attachments/assets/7342b545-03d1-4511-96e8-73afaa859a70" />
 
-<img width="1366" height="768" alt="screenshot868" src="https://github.com/user-attachments/assets/9c1455e7-3d27-41dd-87ad-690be43e8a50" />
+<img width="1366" height="768" alt="screenshot1065" src="https://github.com/user-attachments/assets/47ec9157-b8a5-43ad-8b6c-7fc746a9663b" />
 
-<img width="1366" height="768" alt="screenshot869" src="https://github.com/user-attachments/assets/a696ed99-b6db-4cfe-a966-4f282093e658" />
-
+<img width="1366" height="768" alt="screenshot1068" src="https://github.com/user-attachments/assets/d70ad7bf-92b1-497b-972a-66863bbb7925" />
 
 ### Result Screen
 
-<img width="1366" height="768" alt="screenshot857" src="https://github.com/user-attachments/assets/800e064d-78ac-4545-9fbb-0ac890982d33" />
+<img width="1366" height="768" alt="screenshot1049" src="https://github.com/user-attachments/assets/fd5d3a73-0f03-497c-8422-b158f8153aee" />
 
-<img width="1366" height="768" alt="screenshot910" src="https://github.com/user-attachments/assets/a55c553d-52d3-4f80-adbb-e62ad831aed9" />
+<img width="1366" height="768" alt="screenshot1050" src="https://github.com/user-attachments/assets/c8904c23-a103-47e2-b3b6-10eb9dc24a63" />
 
-<img width="1366" height="768" alt="screenshot856" src="https://github.com/user-attachments/assets/0ad8f4c7-91e0-4eb5-bd8b-5ad0f908a366" />
+<img width="1366" height="768" alt="screenshot1051" src="https://github.com/user-attachments/assets/0fd9cea7-fa4e-4b63-9230-93a840afbd0e" />
 
-<img width="1366" height="768" alt="screenshot855" src="https://github.com/user-attachments/assets/60c2ec0a-56c6-4925-933d-511f5958993b" />
-
+<img width="1366" height="768" alt="screenshot1076" src="https://github.com/user-attachments/assets/7e1ba35f-fd35-4b4b-ace7-30a00c663243" />
 
 ### Pause Screen
 
-<img width="1366" height="768" alt="screenshot875" src="https://github.com/user-attachments/assets/dae03595-8ab4-4151-88d7-bb632b968b0c" />
-
+<img width="1366" height="768" alt="screenshot1073" src="https://github.com/user-attachments/assets/b037ee6b-c6d2-4260-bc2c-25ad70ff739a" />
 
 ### Fail Screen
 
-<img width="1366" height="768" alt="screenshot876" src="https://github.com/user-attachments/assets/65a30a90-2e22-4795-a925-4a029e8bd6c0" />
-
+<img width="1366" height="768" alt="screenshot1074" src="https://github.com/user-attachments/assets/4b841020-4dd7-40a5-9c84-f19ef79a913e" />
 
 # ~ Changelog ~
 
-(Main branch will only show the latest version: `v.7.2.0`, others will be moved to respective branches!)
+(Main branch will only show the latest version: `v.7.3.0`, others will be moved to respective branches!)
 
-## [7.2.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.2.0-release)
+## [7.3.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.0-release)
 
-_I was a knight that was once a hero. Countless battle. Endless trial. The one that stood proud, and protected the kingdom, protected people I appreciated the most. There were trials that I thought I could fail, but I overcame all. That time, everyone called me a hero._
+_Back in the days, everything was so simple. Ah... The adventure to conquer Math palace. The time when everything was so simple, so charming... It was unfortunately ended a long time ago though_
 
-_But then, for some reason... I got painted as a villain, and forgotten by humanity. All because, the kingdom began to be corrupted. All because... I simply don't want to go on field. I was exhausted, tired, and even got betrayed. I also got exiled too. The time sure changed people. Because of greed._
+_Now, I really yearn more for adventures. It's an exciting thing that I can meet new people, experience new things, and enjoy the life. Seeing Alpha Mg and Maguneshiumu suffering from devastation event, I really want to help them out, since they are me but grew up after 6 years in a different timeline, and I just happened to pop in after the revival of Yume no Sekai. As a result, I become the emperor of Nature Land, while also becoming an adventurer along with Maguneshiumu and Alpha Mg! We will go beyond our limit, explore the unknown together!!_
 
-_But that is okay. This journey with Alpha Cats will be my own path too. I want to be an adventurer with Alpha Mg, with Maguneshiumu, and all the buddies. We will watch fireworks when the spring comes. We will all ascend again. Heaven will be for people who are brave enough to paint their own will, not for people who are corrupted._
+_**I am Royal Green Mg ( 雨森 (あめもり) マグネシウム ), current emperor of Nature Land, and the magician of adventurer team, dear travelers!!**_
 
-_**Therefore, I introduce again to you. I am Hirawa Amnesia ( 平和 (ひらわ) アムネシア ), a forgotten knight, berserker of adventurer team, and the artist of my life, dear travelers.**_
 
 - Initial release
 
-- Reworked song select, focus on Hirawa Amnesia
+- Reworked song select, focus on Royak Green Mg
 
-- Adjusted the numbers to make it more on the theme of Hirawa-kun
+- Adjusted the numbers to make it more on the theme of Royal Mg
 
-- Reworked entire mod icons, ranking panel, HP Bar
+- Reworked mod icons, ranking panel, HP Bar
 
-- Keep Energy Rate since every buddies that has direct relation to Ouritsu-kun uses "Energy Rate" as a whole
+- Keep Surge Rate to match Alpha Mg
 
 - Updated Spicy text files
 
-- Added bottom part of Ranking Panel
+- Adjusted hitsounds, [requested in the feedback of Chapter 1](https://osu.ppy.sh/community/forums/topics/2195196?n=2)
+
+- Patched menu-background for all the versions
