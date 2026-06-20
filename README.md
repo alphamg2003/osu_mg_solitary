@@ -108,7 +108,7 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                 ~ Media (Latest Version) ~
 
-## Season 3 - Chapter 3:
+## Season 3 - Chapter 4:
 
 ### Song Select
 
@@ -197,4 +197,4 @@ _**I am Royal Green Mg ( 雨森 (あめもり) マグネシウム ), current emp
 
 - Adjusted hitsounds, [requested in the feedback of Chapter 1](https://osu.ppy.sh/community/forums/topics/2195196?n=2)
 
-- Patched menu-background for all the versions
+- Patched menu-background for all the versions (Hotfix, mentioned in [#26](https://github.com/alphamg2003/osu_mg_solitary/issues/26) )
