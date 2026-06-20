@@ -26,7 +26,7 @@ Branch status: Season 3 - Chapter 3 - 100% Done!
 
 - Helper/Idea hint giver: _CL1F (W suggestion on a lot of part for this chapter), [h3oCharles](https://osu.ppy.sh/users/8712289) (Consistency hint), [lilrawk](https://osu.ppy.sh/users/13799581) (Guided me the right path, especially on the Song Select Bottom Part)
 
-- Extra helpers: Siyul (Psych2Go), Vivi (Mystic Forest), [skinship community](https://discord.gg/skinship-591469672747106304), [TETR.IO server](https://discord.com/invite/tetrio) and [Psych2Go server](https://discord.gg/EsWEvrJ)[/color]
+- Extra helpers: Siyul (Psych2Go), Vivi (Mystic Forest), [skinship community](https://discord.gg/skinship-591469672747106304), [TETR.IO server](https://discord.com/invite/tetrio) and [Psych2Go server](https://discord.gg/EsWEvrJ)
 
 - If you have an osu! account and wanna set sail with me, [go here](https://osu.ppy.sh/teams/42565)
 
@@ -134,3 +134,5 @@ _**Therefore, I introduce again to you. I am Hirawa Amnesia ( 平和 (ひらわ)
 - Updated Spicy text files
 
 - Added bottom part of Ranking Panel
+
+- Quick patch on menu-background, mentioned in [#26](https://github.com/alphamg2003/osu_mg_solitary/issues/26)
