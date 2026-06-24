@@ -24,7 +24,7 @@ Branch status: Season 3 - Chapter 4 - 100% Done!
 
 - Credits: [TETR.IO](https://tetr.io/) (for allowing me to use some sound effects)
 
-- Extra helpers: Siyul (Psych2Go), Vivi (Mystic Forest), [skinship community](https://discord.gg/skinship-591469672747106304), [TETR.IO server](https://discord.com/invite/tetrio) and [Psych2Go server](https://discord.gg/EsWEvrJ)
+- Extra helpers: Nycronoid (Nycro's Galaxy), Vivi (Mystic Forest), [TETR.IO server](https://discord.com/invite/tetrio) and [Psych2Go server](https://discord.gg/EsWEvrJ)
 
 - If you have an osu! account and wanna set sail with me, [go here](https://osu.ppy.sh/teams/42565)
 
