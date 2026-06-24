@@ -16,7 +16,7 @@ Branch status: Season 3 - Chapter 4 - 100% Done!
 
 - Season 3:
 
-+ Chapter 4: Royal Mg - Ambition of Forest [(**7.3.0**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.0-release)
++ Chapter 4: Royal Mg - Ambition of Forest [(**7.3.1**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.1-release)
 
 [<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/e3de280d-4403-46ce-bf78-20be2c7e0e0b" />](https://osu.ppy.sh/community/forums/topics/2213728)
 
@@ -114,11 +114,18 @@ _Now, I really yearn more for adventures. It's an exciting thing that I can meet
 
 _**I am Royal Green Mg ( 雨森 (あめもり) マグネシウム ), current emperor of Nature Land, and the magician of adventurer team, dear travelers!!**_
 
+## [7.3.1](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.1-release)
+
+- Patched menu-background for all the versions (Hotfix, mentioned in [#26](https://github.com/alphamg2003/osu_mg_solitary/issues/26) )
+
+- Added "Ready" count being missing (See [#28](https://github.com/alphamg2003/osu_mg_solitary/issues/28) )
+
+
 ## [7.3.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.0-release)
 
 - Initial release
 
-- Reworked song select, focus on Royak Green Mg
+- Reworked song select, focus on Royal Green Mg
 
 - Adjusted the numbers to make it more on the theme of Royal Mg
 
