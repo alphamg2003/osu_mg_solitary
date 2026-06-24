@@ -45,7 +45,7 @@ Characters for project:
 [<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/f502cacb-a5d9-45b9-b3de-7ed66701ad1e" />](https://compendium.skinship.xyz/2026-04-28/2201462)
 
 
-+ Chapter 4: Royal Mg - Ambition of Forest [(**7.3.0**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.0-release)
++ Chapter 4: Royal Mg - Ambition of Forest [(**7.3.1**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.1-release)
 
 [<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/e3de280d-4403-46ce-bf78-20be2c7e0e0b" />](https://compendium.skinship.xyz/2026-06-09/2213728)
 
@@ -172,9 +172,9 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 # ~ Changelog ~
 
-(Main branch will only show the latest version: `v.7.3.0`, others will be moved to respective branches!)
+(Main branch will only show the latest version: `v.7.3.1`, others will be moved to respective branches!)
 
-## [7.3.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.0-release)
+## [7.3.1](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.1-release)
 
 _Back in the days, everything was so simple. Ah... The adventure to conquer Math palace. The time when everything was so simple, so charming... It was unfortunately ended a long time ago though_
 
@@ -182,19 +182,6 @@ _Now, I really yearn more for adventures. It's an exciting thing that I can meet
 
 _**I am Royal Green Mg ( 雨森 (あめもり) マグネシウム ), current emperor of Nature Land, and the magician of adventurer team, dear travelers!!**_
 
-
-- Initial release
-
-- Reworked song select, focus on Royak Green Mg
-
-- Adjusted the numbers to make it more on the theme of Royal Mg
-
-- Reworked mod icons, ranking panel, HP Bar
-
-- Keep Surge Rate to match Alpha Mg
-
-- Updated Spicy text files
-
-- Adjusted hitsounds, [requested in the feedback of Chapter 1](https://osu.ppy.sh/community/forums/topics/2195196?n=2)
-
 - Patched menu-background for all the versions (Hotfix, mentioned in [#26](https://github.com/alphamg2003/osu_mg_solitary/issues/26) )
+
+- Added "Ready" count being missing (See [#28](https://github.com/alphamg2003/osu_mg_solitary/issues/28) )
