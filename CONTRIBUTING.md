@@ -16,19 +16,27 @@
 
 \+ Use common sense. If something seems inappropriate or unreasonable to post, then don't.
 
-\+ If the owners or admins of this project tell you to stop, please stop. Their decision is final, no point being against them.
+\+ If the owner or admins of this project tell you to stop, please stop. Their decision is final, no point being against them.
 
-### R-2. Only refer the Community Version of the project as a part of Gacha Communities.
+### R-2. No AI-generated content
+
+\+ Whether it is coding the skin.ini, or making assets, **this project does not support the use of AI (or Artificial Intelligence).** A clanker must behave like a clanker and stay away from this repo. **I do not endorse, nor allowing this project to be fed to AI Database.**
+
+\+ Using these tools is fully allowed and highly recommended: [Contrast Checker](https://coolors.co/contrast-checker/ff80f4-003c03), [Image Scaler](https://osu.ppy.sh/community/forums/topics/762684), [Fringe Remover](https://osu.ppy.sh/community/forums/topics/1244643). 
+
+\+ [waifu2x](https://github.com/nagadomi/waifu2x) is **fine** as an exception to R-2. However, **it is better to do image in HD quality** (twice the dimension sizes) **before scaling down to SD.**
+
+### R-3. Only refer the Community Version of the project as a part of Gacha Communities.
 
 \+ The project is affiliated with Gacha Communities (Specificially Gacha Life, Gacha Club, Gacha Life 2 Communities) **only in Community Version**. Calling the other versions of this project as part of the communities is not allowed.
 
 \+ Do not attack the one who supported my project all along, they are not deserved to be harassed.
 
-### R-3. Follow osu! rules
+### R-4. Follow osu! rules
 
 \+ By using the project, you agree to follow [osu! rules](https://osu.ppy.sh/wiki/en/Rules). Failed to abide their rules will have yourself banned from this project.
 
-### R-4. Refrain from bringing NSFW and Sensitive Contents
+### R-5. Refrain from bringing NSFW and Sensitive Contents
 
 \+ By using this project, you are not allowed to share NSFW content of any form in this repo or in social medias. Keep this project PG-13.
 
