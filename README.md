@@ -4,7 +4,7 @@ The only active core project of osu! Gacha Club, that brings self-made character
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Branch status: Season 3 - Chapter 4 - 100% Done!
+Branch status: Season 3 - Chapter 6 - 100% Done!
 
 [Stability Status]: As of now, the project is stable.
 
@@ -16,15 +16,17 @@ Branch status: Season 3 - Chapter 4 - 100% Done!
 
 - Season 3:
 
-+ Chapter 4: Royal Mg - Ambition of Forest [(**7.3.1**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.1-release)
++ Chapter 6: Mikan Amane & Heaven Journey [(**7.5.0**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.5.0-release)
 
-[<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/e3de280d-4403-46ce-bf78-20be2c7e0e0b" />](https://osu.ppy.sh/community/forums/topics/2213728)
+[<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/b8479f4b-72fb-49ab-b484-30c9693b3d46" />](https://osu.ppy.sh/community/forums/topics/2261079)
 
-- Copyright issue: All image elements, if you want to reuse it, please credit me. It's a non-commercial project after all.
+-  Copyright issue: All image elements, if you want to reuse it, please credit me. Or simply check the [License file](https://github.com/alphamg2003/osu_mg_solitary?tab=BSD-3-Clause-1-ov-file).
 
 - Credits: [TETR.IO](https://tetr.io/) (for allowing me to use some sound effects)
 
-- Extra helpers: Nycronoid (Nycro's Galaxy), Vivi (Mystic Forest), [TETR.IO server](https://discord.com/invite/tetrio) and [Psych2Go server](https://discord.gg/EsWEvrJ)
+- Supporters: [LOVIVES](https://www.youtube.com/@LOVIVES), [TETR.IO Community](https://discord.com/invite/tetrio) and [Psi World](https://discord.gg/EsWEvrJ)
+
+Inspiration: [HeavenTravel](https://play.google.com/store/apps/details?id=com.heaventravel), and [xi - Ascension to Heaven](https://osu.ppy.sh/beatmapsets/368060#fruits/807074)
 
 - If you have an osu! account and wanna set sail with me, [go here](https://osu.ppy.sh/teams/42565)
 
@@ -47,98 +49,85 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 ### Song Select
 
-<img width="1366" height="768" alt="screenshot1041" src="https://github.com/user-attachments/assets/85cbbb83-3866-48f4-ad7d-0c996e575959" />
+<img width="1366" height="768" alt="screenshot1041" src="https://i.ibb.co/Ng1V5QPB/screenshot2041.png" />
 
-<img width="1366" height="768" alt="screenshot1047" src="https://github.com/user-attachments/assets/c985c31b-6ec0-45c2-8d3a-30a4c2528ddd" />
+<img width="1366" height="768" alt="screenshot1047" src="https://i.ibb.co/JRx4cPmC/screenshot2127.png" />
 
 
 ### Mod selection
 
-<img width="1366" height="768" alt="screenshot1043" src="https://github.com/user-attachments/assets/3a54f192-abca-43ab-9d8d-e406664a7801" />
+<img width="1366" height="768" alt="screenshot1043" src="https://i.ibb.co/6cH65Zqz/screenshot2042.png" />
 
-<img width="1366" height="768" alt="screenshot1044" src="https://github.com/user-attachments/assets/d7ef912f-315d-41ac-9c6c-9558122c7749" />
+<img width="1366" height="768" alt="screenshot1044" src="https://i.ibb.co/bRbzTHkN/screenshot2043.png" />
 
 ### Circles and Sliders
 
-<img width="1366" height="768" alt="screenshot1052" src="https://github.com/user-attachments/assets/1fc08529-34e5-4e18-b311-fe290fcec6c4" />
-
-<img width="1366" height="768" alt="screenshot1053" src="https://github.com/user-attachments/assets/32dcde2e-394c-4758-b235-0e4296be93ff" />
+<img width="1366" height="768" alt="screenshot1052" src="https://i.ibb.co/hFVr291Z/screenshot2050.png" />
 
 ### Spinner
 
-<img width="1366" height="768" alt="screenshot1055" src="https://github.com/user-attachments/assets/472aa071-8a0e-45cb-b152-90705eb794d5" />
+<img width="1366" height="768" alt="screenshot1055" src="https://i.ibb.co/kV3cxBPm/screenshot2053.png" />
 
 ### Taiko! mode
 
-<img width="1366" height="768" alt="screenshot1060" src="https://github.com/user-attachments/assets/b9a59dc6-097f-45ed-bb18-a32be85a4bb2" />
+<img width="1366" height="768" alt="screenshot1060" src="https://i.ibb.co/YFKv2qXp/screenshot2054.png" />
 
-<img width="1366" height="768" alt="screenshot1062" src="https://github.com/user-attachments/assets/9856ab2b-9349-4d27-a297-82a57c1ac00d" />
+<img width="1366" height="768" alt="screenshot1062" src="https://i.ibb.co/d4b6zr0H/screenshot2055.png" />
 
-<img width="1366" height="768" alt="screenshot1063" src="https://github.com/user-attachments/assets/b7e15f4f-0a5d-4731-9786-071e27b64fd3" />
+<img width="1366" height="768" alt="screenshot1063" src="https://i.ibb.co/2zMqyXb/screenshot2058.png" />
 
-<img width="1366" height="768" alt="screenshot1064" src="https://github.com/user-attachments/assets/ee122449-e59c-4978-bc8d-84f142b96f6a" />
+<img width="1366" height="768" alt="screenshot1064" src="https://i.ibb.co/wF1SzKfZ/screenshot2059.png" />
 
 
 ### Catch! mode
 
-<img width="1366" height="768" alt="screenshot1072" src="https://github.com/user-attachments/assets/7342b545-03d1-4511-96e8-73afaa859a70" />
+<img width="1366" height="768" alt="screenshot1072" src="https://i.ibb.co/xqvfNHv0/screenshot2060.png" />
 
-<img width="1366" height="768" alt="screenshot1065" src="https://github.com/user-attachments/assets/47ec9157-b8a5-43ad-8b6c-7fc746a9663b" />
+<img width="1366" height="768" alt="screenshot1065" src="https://i.ibb.co/Pv8jz6CW/screenshot2061.png" />
 
-<img width="1366" height="768" alt="screenshot1068" src="https://github.com/user-attachments/assets/d70ad7bf-92b1-497b-972a-66863bbb7925" />
+<img width="1366" height="768" alt="screenshot1068" src="https://i.ibb.co/g8Lpcsr/screenshot2062.png" />
 
 ### Result Screen
 
-<img width="1366" height="768" alt="screenshot1049" src="https://github.com/user-attachments/assets/fd5d3a73-0f03-497c-8422-b158f8153aee" />
+<img width="1366" height="768" alt="screenshot1049" src="https://i.ibb.co/mFgMtr3j/screenshot2128.png" />
 
-<img width="1366" height="768" alt="screenshot1050" src="https://github.com/user-attachments/assets/c8904c23-a103-47e2-b3b6-10eb9dc24a63" />
+<img width="1366" height="768" alt="screenshot1050" src="https://i.ibb.co/bjf772Hc/screenshot2129.png" />
 
-<img width="1366" height="768" alt="screenshot1051" src="https://github.com/user-attachments/assets/0fd9cea7-fa4e-4b63-9230-93a840afbd0e" />
+<img width="1366" height="768" alt="screenshot1051" src="https://i.ibb.co/FbkkHCvZ/screenshot2130.png" />
 
-<img width="1366" height="768" alt="screenshot1076" src="https://github.com/user-attachments/assets/7e1ba35f-fd35-4b4b-ace7-30a00c663243" />
+<img width="1366" height="768" alt="screenshot1076" src="https://i.ibb.co/RpGsxjDN/screenshot2045.png" />
 
 ### Pause Screen
 
-<img width="1366" height="768" alt="screenshot1073" src="https://github.com/user-attachments/assets/b037ee6b-c6d2-4260-bc2c-25ad70ff739a" />
+<img width="1366" height="768" alt="screenshot1073" src="https://i.ibb.co/SDkHMBD0/screenshot2091.png" />
 
 ### Fail Screen
 
-<img width="1366" height="768" alt="screenshot1074" src="https://github.com/user-attachments/assets/4b841020-4dd7-40a5-9c84-f19ef79a913e" />
+<img width="1366" height="768" alt="screenshot1074" src="https://i.ibb.co/h1VW7Twm/screenshot2092.png" />
 
 
 # ~ Changelog ~
 
-_Back in the days, everything was so simple. Ah... The adventure to conquer Math palace. The time when everything was so simple, so charming... It was unfortunately ended a long time ago though_
+_What if there is a happy end that is the guaranteed reward for all angels who went through hardships?_
 
-_Now, I really yearn more for adventures. It's an exciting thing that I can meet new people, experience new things, and enjoy the life. Seeing Alpha Mg and Maguneshiumu suffering from devastation event, I really want to help them out, since they are me but grew up after 6 years in a different timeline, and I just happened to pop in after the revival of Yume no Sekai. As a result, I become the emperor of Nature Land, while also becoming an adventurer along with Maguneshiumu and Alpha Mg! We will go beyond our limit, explore the unknown together!!_
+_This sounds crazy, but that is the path that I took. Since the start of the journey to be Heaven Ascendant, I suffered from temporal memory loss, getting bullied by the friends, and have no friends to begin with. I am a bit different from normal, I am into reading, and library is my hideout that I can stay there and quietly enjoy the scene. One time, I came across the book, that taught me a way to ascend to Heaven, safely. Therefore, I keep following the guide, and soon enough, my wings start to work, and I can rise above the sky, into the realm of Heaven!_
 
-_**I am Royal Green Mg ( 雨森 (あめもり) マグネシウム ), current emperor of Nature Land, and the magician of adventurer team, dear travelers!!**_
+_It's so astonishing there, and even better, I have Beta Mg to take care of me as well! Let's keep the journey going forward, you can ascend to Heaven as well!!_
 
-## [7.3.1](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.1-release)
+_**O heyo, dear travelers, I am Mikan Amane ( 蜜柑 天音 (みかんてんくう) ), one of the Heaven Ascendant, and also a magician of adventurer team, with the power of heaven and cloud!!**_
 
-- Patched menu-background for all the versions (Hotfix, mentioned in [#26](https://github.com/alphamg2003/osu_mg_solitary/issues/26) )
-
-- Added "Ready" count being missing (See [#28](https://github.com/alphamg2003/osu_mg_solitary/issues/28) )
-
-
-## [7.3.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.0-release)
+## [7.5.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.5.0-release)
 
 - Initial release
 
-- Reworked song select, focus on Royal Green Mg
+- Reworked song select, focus on Mikan Amane
 
-- Adjusted the numbers to make it more on the theme of Royal Mg
+- Adjusted the numbers to make it more on the theme of Mikan Amane
 
 - Reworked mod icons, ranking panel, HP Bar
 
-- Keep Surge Rate to match Alpha Mg
+- Changed HP Bar Text to Ascension Rate to match Mikan Amane
 
-- Updated Spicy text files
+- Change how taiko animation can be: Mikan Amane can now float, literally
 
-- Adjusted hitsounds, [requested in the feedback of Chapter 1](https://osu.ppy.sh/community/forums/topics/2195196?n=2)
-
-- Patched menu-background for all the versions (Hotfix, mentioned in [#26](https://github.com/alphamg2003/osu_mg_solitary/issues/26) )
-
-- Added bottom part of Ranking Panel
-
-- Quick patch on menu-background, mentioned in [#26](https://github.com/alphamg2003/osu_mg_solitary/issues/26)
+- Cut down the catcher's folder, introducing new kind of plate: A cloud, formed by Amane's magic herself. The cloud fills the full width of catcher's sprite
