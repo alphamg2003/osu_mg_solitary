@@ -90,7 +90,7 @@ Then, on this screen, write your branch name, and `Create branch based on: v.x.x
 
 <img width="1366" height="728" alt="GitHubDesktop_HDkFb6d6Qr" src="https://github.com/user-attachments/assets/2af9be30-046d-46d4-ac5c-b8c41a7ff7a3" />
 
-If you are success, you should see like this, open the branch folder with `Show in Explorer`.
+After doing so, you should see a screen like this, open the branch folder with `Show in Explorer`.
 
 <img width="1366" height="728" alt="GitHubDesktop_pexh2ccc2G" src="https://github.com/user-attachments/assets/b3ea1150-0f24-435b-ab92-63590e525f41" />
 
