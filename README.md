@@ -4,7 +4,7 @@ The only active core project of osu! Gacha Club, that brings self-made character
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Branch status: Season 3 - Chapter 4 - 100% Done!
+Branch status: Season 3 - Chapter 5 - 100% Done!
 
 [Stability Status]: As of now, the project is stable.
 
