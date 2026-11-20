@@ -28,7 +28,7 @@ Characters for project:
 
 - Spinner (for osu! standard) (5 slots)- ???, ???, ???, ???, ???
 
-- Mania Left-side (for osu! mania) (3 slots) - LOVIVES, KENZIE, ???
+- Mania Left-side (for osu! mania) (3 slots) - LOVIVES, KENZIE, ???, ???, ???
 
 ## Season 3 - Journey of Cats & Nature:
 
