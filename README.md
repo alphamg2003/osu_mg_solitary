@@ -4,7 +4,7 @@ The only active core project of osu! Gacha Club, that brings self-made character
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Branch status: Season 3 - Chapter 4 - 100% Done!
+Branch status: Season 3 - Chapter 7 - 100% Done!
 
 [Stability Status]: As of now, the project is stable.
 
@@ -12,19 +12,19 @@ Branch status: Season 3 - Chapter 4 - 100% Done!
 
 #                                ~ osu! Mg (Season 3) - Journey of Cats & Nature ~
 
-- Leader: **Alpha Green Mg**
+- Leader: **Ouritsu Maguneshiumu**
 
 - Season 3:
 
-+ Chapter 4: Royal Mg - Ambition of Forest [(**7.3.1**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.1-release)
++ Chapter 7: Himuro Akita & Enchanted Ice Journey [(**7.6.0**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.6.0-release)
 
-[<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/e3de280d-4403-46ce-bf78-20be2c7e0e0b" />](https://osu.ppy.sh/community/forums/topics/2213728)
+[<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/fa3a6040-aad9-4fda-b0e4-abf616c8bc9b" />](https://osu.ppy.sh/community/forums/topics/2261085)
 
-- Copyright issue: All image elements, if you want to reuse it, please credit me. It's a non-commercial project after all.
+-  Copyright issue: All image elements, if you want to reuse it, please credit me. Or simply check the [License file](https://github.com/alphamg2003/osu_mg_solitary?tab=BSD-3-Clause-1-ov-file).
 
 - Credits: [TETR.IO](https://tetr.io/) (for allowing me to use some sound effects)
 
-- Extra helpers: Nycronoid (Nycro's Galaxy), Vivi (Mystic Forest), [TETR.IO server](https://discord.com/invite/tetrio) and [Psych2Go server](https://discord.gg/EsWEvrJ)
+- Supporters: [LOVIVES](https://www.youtube.com/@LOVIVES), [TETR.IO Community](https://discord.com/invite/tetrio) and [Psi World](https://discord.gg/EsWEvrJ)
 
 - If you have an osu! account and wanna set sail with me, [go here](https://osu.ppy.sh/teams/42565)
 
@@ -43,102 +43,95 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                 ~ Media (Latest Version) ~
 
-## Season 3 - Chapter 4:
+## Season 3 - Chapter 7:
 
 ### Song Select
 
-<img width="1366" height="768" alt="screenshot1041" src="https://github.com/user-attachments/assets/85cbbb83-3866-48f4-ad7d-0c996e575959" />
+<img width="1366" height="768" alt="screenshot1041" src="https://i.ibb.co/4R5PhRxW/screenshot2064.png" />
 
-<img width="1366" height="768" alt="screenshot1047" src="https://github.com/user-attachments/assets/c985c31b-6ec0-45c2-8d3a-30a4c2528ddd" />
+<img width="1366" height="768" alt="screenshot1047" src="https://i.ibb.co/r20kpZhv/screenshot2135.png" />
 
 
 ### Mod selection
 
-<img width="1366" height="768" alt="screenshot1043" src="https://github.com/user-attachments/assets/3a54f192-abca-43ab-9d8d-e406664a7801" />
+<img width="1366" height="768" alt="screenshot1043" src="https://i.ibb.co/PspKcvVk/screenshot2065.png" />
 
-<img width="1366" height="768" alt="screenshot1044" src="https://github.com/user-attachments/assets/d7ef912f-315d-41ac-9c6c-9558122c7749" />
+<img width="1366" height="768" alt="screenshot1044" src="https://i.ibb.co/8L9yx48m/screenshot2066.png" />
 
 ### Circles and Sliders
 
-<img width="1366" height="768" alt="screenshot1052" src="https://github.com/user-attachments/assets/1fc08529-34e5-4e18-b311-fe290fcec6c4" />
-
-<img width="1366" height="768" alt="screenshot1053" src="https://github.com/user-attachments/assets/32dcde2e-394c-4758-b235-0e4296be93ff" />
+<img width="1366" height="768" alt="screenshot1052" src="https://i.ibb.co/4wV7yHyb/screenshot2069.png" />
 
 ### Spinner
 
-<img width="1366" height="768" alt="screenshot1055" src="https://github.com/user-attachments/assets/472aa071-8a0e-45cb-b152-90705eb794d5" />
+<img width="1366" height="768" alt="screenshot1055" src="https://i.ibb.co/vCnbFYGM/screenshot2070.png" />
 
 ### Taiko! mode
 
-<img width="1366" height="768" alt="screenshot1060" src="https://github.com/user-attachments/assets/b9a59dc6-097f-45ed-bb18-a32be85a4bb2" />
+<img width="1366" height="768" alt="screenshot1060" src="https://i.ibb.co/yBPBSnSz/screenshot2071.png" />
 
-<img width="1366" height="768" alt="screenshot1062" src="https://github.com/user-attachments/assets/9856ab2b-9349-4d27-a297-82a57c1ac00d" />
+<img width="1366" height="768" alt="screenshot1062" src="https://i.ibb.co/wFV0N66R/screenshot2072.png" />
 
-<img width="1366" height="768" alt="screenshot1063" src="https://github.com/user-attachments/assets/b7e15f4f-0a5d-4731-9786-071e27b64fd3" />
+<img width="1366" height="768" alt="screenshot1063" src="https://i.ibb.co/39hh8Jjm/screenshot2074.png" />
 
-<img width="1366" height="768" alt="screenshot1064" src="https://github.com/user-attachments/assets/ee122449-e59c-4978-bc8d-84f142b96f6a" />
+<img width="1366" height="768" alt="screenshot1064" src="https://i.ibb.co/tTLXKZnF/screenshot2075.png" />
 
 
 ### Catch! mode
 
-<img width="1366" height="768" alt="screenshot1072" src="https://github.com/user-attachments/assets/7342b545-03d1-4511-96e8-73afaa859a70" />
+<img width="1366" height="768" alt="screenshot1072" src="https://i.ibb.co/7JMhz8nT/screenshot2076.png" />
 
-<img width="1366" height="768" alt="screenshot1065" src="https://github.com/user-attachments/assets/47ec9157-b8a5-43ad-8b6c-7fc746a9663b" />
+<img width="1366" height="768" alt="screenshot1065" src="https://i.ibb.co/BVzmx5L3/screenshot2077.png" />
 
-<img width="1366" height="768" alt="screenshot1068" src="https://github.com/user-attachments/assets/d70ad7bf-92b1-497b-972a-66863bbb7925" />
+<img width="1366" height="768" alt="screenshot1068" src="https://i.ibb.co/LfpMJZ3/screenshot2079.png" />
 
 ### Result Screen
 
-<img width="1366" height="768" alt="screenshot1049" src="https://github.com/user-attachments/assets/fd5d3a73-0f03-497c-8422-b158f8153aee" />
+<img width="1366" height="768" alt="screenshot1049" src="https://i.ibb.co/Y4NJ2KyZ/screenshot2138.png" />
 
-<img width="1366" height="768" alt="screenshot1050" src="https://github.com/user-attachments/assets/c8904c23-a103-47e2-b3b6-10eb9dc24a63" />
+<img width="1366" height="768" alt="screenshot1050" src="https://i.ibb.co/gFdQrwnK/screenshot2139.png" />
 
-<img width="1366" height="768" alt="screenshot1051" src="https://github.com/user-attachments/assets/0fd9cea7-fa4e-4b63-9230-93a840afbd0e" />
+<img width="1366" height="768" alt="screenshot1051" src="https://i.ibb.co/JjB9yGHf/screenshot2140.png" />
 
-<img width="1366" height="768" alt="screenshot1076" src="https://github.com/user-attachments/assets/7e1ba35f-fd35-4b4b-ace7-30a00c663243" />
+<img width="1366" height="768" alt="screenshot1076" src="https://i.ibb.co/6JpWmmQf/screenshot2068.png" />
 
 ### Pause Screen
 
-<img width="1366" height="768" alt="screenshot1073" src="https://github.com/user-attachments/assets/b037ee6b-c6d2-4260-bc2c-25ad70ff739a" />
+<img width="1366" height="768" alt="screenshot1073" src="https://i.ibb.co/Fq0HfMYk/screenshot2080.png" />
 
 ### Fail Screen
 
-<img width="1366" height="768" alt="screenshot1074" src="https://github.com/user-attachments/assets/4b841020-4dd7-40a5-9c84-f19ef79a913e" />
+<img width="1366" height="768" alt="screenshot1074" src="https://i.ibb.co/j92vm09V/screenshot2081.png" />
 
 
 # ~ Changelog ~
 
-_Back in the days, everything was so simple. Ah... The adventure to conquer Math palace. The time when everything was so simple, so charming... It was unfortunately ended a long time ago though_
+_It's Winter Season, so it's really cold! Don't forget to wear warm clothes!_
 
-_Now, I really yearn more for adventures. It's an exciting thing that I can meet new people, experience new things, and enjoy the life. Seeing Alpha Mg and Maguneshiumu suffering from devastation event, I really want to help them out, since they are me but grew up after 6 years in a different timeline, and I just happened to pop in after the revival of Yume no Sekai. As a result, I become the emperor of Nature Land, while also becoming an adventurer along with Maguneshiumu and Alpha Mg! We will go beyond our limit, explore the unknown together!!_
+_Whenever Winter comes, back to the time when everything was still great in ■■■■■■ ■■■■■, I used to train my archer skills, and join in archer contests, alongside with ■■■■■■■. That was great memory, and I had a great time with ■■■. Before the devastation, I was called as one of 2 greatest archers in Ice Land, in ■■■■■■ ■■■■■._
 
-_**I am Royal Green Mg ( 雨森 (あめもり) マグネシウム ), current emperor of Nature Land, and the magician of adventurer team, dear travelers!!**_
+_But then, it happened. Same to Hirawa Amnesia, I was lucky to have the graces of stars, to be reborn in Frost Land of Yume no Sekai, and become an adventure to go alongside with Ouritsu Maguneshiumu! And what about the bow, you might ask. Of course, it is infused with Frostbite magic, which is very chilly to touch, perfect to go with Enchanted Ice Arrow!_
 
-## [7.3.1](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.1-release)
+_**Therefore, you can call me with my name: Himuro Akita ( 氷室亞北 (ひむろ あきた)), archer of Frost Land and the archer of adventurer team, dear travelers!!**_
 
-- Patched menu-background for all the versions (Hotfix, mentioned in [#26](https://github.com/alphamg2003/osu_mg_solitary/issues/26) )
-
-- Added "Ready" count being missing (See [#28](https://github.com/alphamg2003/osu_mg_solitary/issues/28) )
-
-
-## [7.3.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.0-release)
+## [7.6.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.6.0-release)
 
 - Initial release
 
-- Reworked song select, focus on Royal Green Mg
+- Reworked song select, focus on Himuro Akita
 
-- Adjusted the numbers to make it more on the theme of Royal Mg
+- Adjusted the numbers to make it more on the theme of Himuro Akita
 
 - Reworked mod icons, ranking panel, HP Bar
 
-- Keep Surge Rate to match Alpha Mg
+- Change HP Bar Text to "Snow powder Rate" to match Himuro Akita
 
-- Updated Spicy text files
+- Rework taiko animation so that Akita-kun can just stand and show snowflake, instead of walking like Chapter 1 - 4
 
-- Adjusted hitsounds, [requested in the feedback of Chapter 1](https://osu.ppy.sh/community/forums/topics/2195196?n=2)
+- Rework the expression of Himuro Akita to be more mature than others
 
-- Patched menu-background for all the versions (Hotfix, mentioned in [#26](https://github.com/alphamg2003/osu_mg_solitary/issues/26) )
+- Create another new kind of plate: Opened snowball box, which can store snowballs there. It fills the entire width of catcher's sprite, inspired from Yuzu's plate and from internet
 
-- Added bottom part of Ranking Panel
+- **Avoided cyan as much as possible**
 
-- Quick patch on menu-background, mentioned in [#26](https://github.com/alphamg2003/osu_mg_solitary/issues/26)
+- Known issue: Flavour text does not appear properly on song selection screen
