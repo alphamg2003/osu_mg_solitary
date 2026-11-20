@@ -94,9 +94,9 @@ After doing so, you should see a screen like this, open the branch folder with `
 
 <img width="1366" height="728" alt="GitHubDesktop_pexh2ccc2G" src="https://github.com/user-attachments/assets/b3ea1150-0f24-435b-ab92-63590e525f41" />
 
-4. Copy all the assets inside the folder `project-assets` from `osu_mg_solitary` into newly created osu! skin folder. It should be, something like this (Season 1 image for now):
+4. Copy all the assets inside the folder `project-assets` from `osu_mg_solitary` into newly created osu! skin folder. It should be, something like this:
 
-![Tutorial](https://github.com/user-attachments/assets/b0bd4bb0-47cc-4cdd-8cba-ed25ed83a4a4)
+<img width="449" height="287" alt="Tutorial (Updated)" src="https://github.com/user-attachments/assets/07c5d2e6-144d-4b82-927f-d8d28c2ea130" />
 
 5. From there, you can work on assets you wish to suggest. Try making @2x version if possible for image assets.
    
