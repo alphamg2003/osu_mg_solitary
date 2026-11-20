@@ -4,7 +4,7 @@ The only active core project of osu! Gacha Club, that brings self-made character
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Branch status: Season 3 - Chapter 4 - 100% Done!
+Branch status: Season 3 - Chapter 8 - 100% Done!
 
 [Stability Status]: As of now, the project is stable.
 
@@ -12,19 +12,19 @@ Branch status: Season 3 - Chapter 4 - 100% Done!
 
 #                                ~ osu! Mg (Season 3) - Journey of Cats & Nature ~
 
-- Leader: **Alpha Green Mg**
+- Leader: **Ouritsu Maguneshiumu**
 
 - Season 3:
 
-+ Chapter 4: Royal Mg - Ambition of Forest [(**7.3.1**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.1-release)
++ Chapter 8: Tabi Karushiumu - The Mechanical Knowledge [(**7.7.0**)](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.7.0-release)
 
-[<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/e3de280d-4403-46ce-bf78-20be2c7e0e0b" />](https://osu.ppy.sh/community/forums/topics/2213728)
+[<img width="1800" height="900" alt="Project banner (1800x900)" src="https://github.com/user-attachments/assets/45e60037-b47b-4e26-aa0e-d184bd0abb90" />](https://osu.ppy.sh/community/forums/topics/2261092)
 
-- Copyright issue: All image elements, if you want to reuse it, please credit me. It's a non-commercial project after all.
+-  Copyright issue: All image elements, if you want to reuse it, please credit me. Or simply check the [License file](https://github.com/alphamg2003/osu_mg_solitary?tab=BSD-3-Clause-1-ov-file).
 
 - Credits: [TETR.IO](https://tetr.io/) (for allowing me to use some sound effects)
 
-- Extra helpers: Nycronoid (Nycro's Galaxy), Vivi (Mystic Forest), [TETR.IO server](https://discord.com/invite/tetrio) and [Psych2Go server](https://discord.gg/EsWEvrJ)
+- Supporters: [LOVIVES](https://www.youtube.com/@LOVIVES), [TETR.IO Community](https://discord.com/invite/tetrio) and [Psi World](https://discord.gg/EsWEvrJ)
 
 - If you have an osu! account and wanna set sail with me, [go here](https://osu.ppy.sh/teams/42565)
 
@@ -43,102 +43,93 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                 ~ Media (Latest Version) ~
 
-## Season 3 - Chapter 4:
+## Season 3 - Chapter 8:
 
 ### Song Select
 
-<img width="1366" height="768" alt="screenshot1041" src="https://github.com/user-attachments/assets/85cbbb83-3866-48f4-ad7d-0c996e575959" />
+<img width="1366" height="768" alt="screenshot1041" src="hhttps://i.ibb.co/b51Xd2Dd/screenshot2082.png" />
 
-<img width="1366" height="768" alt="screenshot1047" src="https://github.com/user-attachments/assets/c985c31b-6ec0-45c2-8d3a-30a4c2528ddd" />
+<img width="1366" height="768" alt="screenshot1047" src="https://i.ibb.co/kVzFxT15/screenshot2144.png" />
 
 
 ### Mod selection
 
-<img width="1366" height="768" alt="screenshot1043" src="https://github.com/user-attachments/assets/3a54f192-abca-43ab-9d8d-e406664a7801" />
+<img width="1366" height="768" alt="screenshot1043" src="https://i.ibb.co/BV0jvvGs/screenshot2083.png" />
 
-<img width="1366" height="768" alt="screenshot1044" src="https://github.com/user-attachments/assets/d7ef912f-315d-41ac-9c6c-9558122c7749" />
+<img width="1366" height="768" alt="screenshot1044" src="https://i.ibb.co/7HK4jK4/screenshot2084.png" />
 
 ### Circles and Sliders
 
-<img width="1366" height="768" alt="screenshot1052" src="https://github.com/user-attachments/assets/1fc08529-34e5-4e18-b311-fe290fcec6c4" />
-
-<img width="1366" height="768" alt="screenshot1053" src="https://github.com/user-attachments/assets/32dcde2e-394c-4758-b235-0e4296be93ff" />
+<img width="1366" height="768" alt="screenshot1052" src="https://i.ibb.co/5XVdZcGM/screenshot2089.png" />
 
 ### Spinner
 
-<img width="1366" height="768" alt="screenshot1055" src="https://github.com/user-attachments/assets/472aa071-8a0e-45cb-b152-90705eb794d5" />
+<img width="1366" height="768" alt="screenshot1055" src="https://i.ibb.co/VWgxJcVr/screenshot2090.png" />
 
 ### Taiko! mode
 
-<img width="1366" height="768" alt="screenshot1060" src="https://github.com/user-attachments/assets/b9a59dc6-097f-45ed-bb18-a32be85a4bb2" />
+<img width="1366" height="768" alt="screenshot1060" src="https://i.ibb.co/2YZ2fqbw/screenshot2096.png" />
 
-<img width="1366" height="768" alt="screenshot1062" src="https://github.com/user-attachments/assets/9856ab2b-9349-4d27-a297-82a57c1ac00d" />
+<img width="1366" height="768" alt="screenshot1062" src="https://i.ibb.co/1fTTytNv/screenshot2097.png" />
 
-<img width="1366" height="768" alt="screenshot1063" src="https://github.com/user-attachments/assets/b7e15f4f-0a5d-4731-9786-071e27b64fd3" />
+<img width="1366" height="768" alt="screenshot1063" src="https://i.ibb.co/zgB7BLj/screenshot2099.png" />
 
-<img width="1366" height="768" alt="screenshot1064" src="https://github.com/user-attachments/assets/ee122449-e59c-4978-bc8d-84f142b96f6a" />
+<img width="1366" height="768" alt="screenshot1064" src="https://i.ibb.co/ccz0mXwj/screenshot2100.png" />
 
 
 ### Catch! mode
 
-<img width="1366" height="768" alt="screenshot1072" src="https://github.com/user-attachments/assets/7342b545-03d1-4511-96e8-73afaa859a70" />
+<img width="1366" height="768" alt="screenshot1072" src="https://i.ibb.co/gMyR1VWR/screenshot2101.png" />
 
-<img width="1366" height="768" alt="screenshot1065" src="https://github.com/user-attachments/assets/47ec9157-b8a5-43ad-8b6c-7fc746a9663b" />
+<img width="1366" height="768" alt="screenshot1065" src="https://i.ibb.co/fdSdgQTH/screenshot2102.png" />
 
-<img width="1366" height="768" alt="screenshot1068" src="https://github.com/user-attachments/assets/d70ad7bf-92b1-497b-972a-66863bbb7925" />
+<img width="1366" height="768" alt="screenshot1068" src="https://i.ibb.co/gFQCQtP3/screenshot2103.png" />
 
 ### Result Screen
 
-<img width="1366" height="768" alt="screenshot1049" src="https://github.com/user-attachments/assets/fd5d3a73-0f03-497c-8422-b158f8153aee" />
+<img width="1366" height="768" alt="screenshot1049" src="https://i.ibb.co/BR9Bh3z/screenshot2146.png" />
 
-<img width="1366" height="768" alt="screenshot1050" src="https://github.com/user-attachments/assets/c8904c23-a103-47e2-b3b6-10eb9dc24a63" />
+<img width="1366" height="768" alt="screenshot1050" src="https://i.ibb.co/SwBxbnzC/screenshot2147.png" />
 
-<img width="1366" height="768" alt="screenshot1051" src="https://github.com/user-attachments/assets/0fd9cea7-fa4e-4b63-9230-93a840afbd0e" />
+<img width="1366" height="768" alt="screenshot1051" src="https://i.ibb.co/6JPYtvKm/screenshot2148.png" />
 
-<img width="1366" height="768" alt="screenshot1076" src="https://github.com/user-attachments/assets/7e1ba35f-fd35-4b4b-ace7-30a00c663243" />
+<img width="1366" height="768" alt="screenshot1076" src="https://i.ibb.co/0RZLPX29/screenshot2086.png" />
 
 ### Pause Screen
 
-<img width="1366" height="768" alt="screenshot1073" src="https://github.com/user-attachments/assets/b037ee6b-c6d2-4260-bc2c-25ad70ff739a" />
+<img width="1366" height="768" alt="screenshot1073" src="https://i.ibb.co/j9TdbrgG/screenshot2104.png" />
 
 ### Fail Screen
 
-<img width="1366" height="768" alt="screenshot1074" src="https://github.com/user-attachments/assets/4b841020-4dd7-40a5-9c84-f19ef79a913e" />
+<img width="1366" height="768" alt="screenshot1074" src="https://i.ibb.co/KpV33vPx/screenshot2105.png" />
 
 
 # ~ Changelog ~
 
-_Back in the days, everything was so simple. Ah... The adventure to conquer Math palace. The time when everything was so simple, so charming... It was unfortunately ended a long time ago though_
+_"We all want to help one another. Human beings are like that." ([Traktion - The Near Distant Future](https://osu.ppy.sh/beatmapsets/97433#osu/260489))_
 
-_Now, I really yearn more for adventures. It's an exciting thing that I can meet new people, experience new things, and enjoy the life. Seeing Alpha Mg and Maguneshiumu suffering from devastation event, I really want to help them out, since they are me but grew up after 6 years in a different timeline, and I just happened to pop in after the revival of Yume no Sekai. As a result, I become the emperor of Nature Land, while also becoming an adventurer along with Maguneshiumu and Alpha Mg! We will go beyond our limit, explore the unknown together!!_
+_Let's say, what if one day you wake up, and the world before your eyes is entirely different? That's what happened to me. How should I start... Ah, back then, when I was still in ■■■■■■■■■■, I was a normal police, and had a partner that was beside me. Everything back then was kinda alright, the only thing is, I got overloaded by the workload so easily. But something really happened, ■■■■■■■■■■ collapsed, and I was buried in a building._
 
-_**I am Royal Green Mg ( 雨森 (あめもり) マグネシウム ), current emperor of Nature Land, and the magician of adventurer team, dear travelers!!**_
+_However, I reopened my eye again, and the world is entirely different. My knowledge of technology in the old world is still there, retained. I was given a new kind of magic from the graces of stars, Technomancy. Therefore, a new era begins, especially after I reunited with Alpha Mg and Royal Mg. With this new kind of magic, I can finally be an engineer, an architect that I wished for, an adventurer that I can travel freely together, and can finally craft modern things in Yume no Sekai as well!_
 
-## [7.3.1](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.1-release)
+_**My name is Tabi Karushiumu ( 旅 (たび) カルシウム), and I am a retired police of ■■■■■■■■■■, currently an architect, an engineer, and an adventurer, dear travelers!!**_
 
-- Patched menu-background for all the versions (Hotfix, mentioned in [#26](https://github.com/alphamg2003/osu_mg_solitary/issues/26) )
+_Oh, and I hate gen-AI. Throw that thing far away from me before I smite ya, hooman. (¬_¬)_
 
-- Added "Ready" count being missing (See [#28](https://github.com/alphamg2003/osu_mg_solitary/issues/28) )
-
-
-## [7.3.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.3.0-release)
+## [7.7.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.7.0-release)
 
 - Initial release
 
-- Reworked song select, focus on Royal Green Mg
+- Reworked song select, focus on Tabi Karushiumu
 
-- Adjusted the numbers to make it more on the theme of Royal Mg
+- Adjusted the numbers to make it more on the theme of Tabi Karushiumu
 
 - Reworked mod icons, ranking panel, HP Bar
 
-- Keep Surge Rate to match Alpha Mg
+- Change HP bar text to "Sequence Rate" to match Tabi Karushiumu
 
-- Updated Spicy text files
+- Use new kind of design for bottom half of ranking panel
 
-- Adjusted hitsounds, [requested in the feedback of Chapter 1](https://osu.ppy.sh/community/forums/topics/2195196?n=2)
+- Introduce another kind of catcher: Hologram Plate, inspired from lazer's Argon skin, and [Azure Snowfall's skin](https://osu.ppy.sh/community/forums/topics/1498492)
 
-- Patched menu-background for all the versions (Hotfix, mentioned in [#26](https://github.com/alphamg2003/osu_mg_solitary/issues/26) )
-
-- Added bottom part of Ranking Panel
-
-- Quick patch on menu-background, mentioned in [#26](https://github.com/alphamg2003/osu_mg_solitary/issues/26)
+- Known Issue: mode-osu-med has incorrect version label
