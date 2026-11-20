@@ -114,7 +114,7 @@ _There are times at night, that I wish to the star, that I can keep going the pa
 
 _**I, Beta Purple Mg (ベータ 紫 (むらさき) マグネシウム), am now a retired Lord of Non-Organic Chemistry, and the magician of adventurer team, dear travelers!!**_
 
-## [7.4.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.5.0-release)
+## [7.4.0](https://github.com/alphamg2003/osu_mg_solitary/releases/tag/v.7.4.0-release)
 
 - Initial release
 
