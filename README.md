@@ -118,6 +118,18 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 <img width="1366" height="768" alt="screenshot613" src="https://github.com/user-attachments/assets/ea379a0f-0f66-417e-a7ea-5ec8393b271d" />
 
+<img width="1366" height="768" alt="screenshot894" src="https://github.com/user-attachments/assets/f301e10a-7956-48fd-8291-819a82edbfc8" />
+
+<img width="1366" height="768" alt="screenshot1309" src="https://github.com/user-attachments/assets/ca365176-e00b-4b76-a82f-89935e86ecc1" />
+
+<img width="1366" height="768" alt="screenshot2014" src="https://github.com/user-attachments/assets/5997b9f0-34ec-4dc3-8b87-51ab3179a288" />
+
+<img width="1366" height="768" alt="screenshot2041" src="https://github.com/user-attachments/assets/6b401949-e1fc-408c-a005-3dea40c7c2fa" />
+
+<img width="1366" height="768" alt="screenshot2064" src="https://github.com/user-attachments/assets/ad867d4f-c2d6-4bf0-be7d-a4e2c4e0685d" />
+
+<img width="1366" height="768" alt="screenshot2082" src="https://github.com/user-attachments/assets/45a539cd-5c02-4404-ad38-df051cd66280" />
+
 
 ### Mod selection
 
