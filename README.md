@@ -45,7 +45,7 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                 ~ Media (Latest Version) ~
 
-## Season 3 - Chapter 4:
+## Season 3 - Chapter 6:
 
 ### Song Select
 
