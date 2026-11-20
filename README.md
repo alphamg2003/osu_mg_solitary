@@ -12,7 +12,7 @@ Branch status: Season 3 - Chapter 6 - 100% Done!
 
 #                                ~ osu! Mg (Season 3) - Journey of Cats & Nature ~
 
-- Leader: **Alpha Green Mg**
+- Leader: **Ouritsu Maguneshiumu**
 
 - Season 3:
 
